@@ -1,0 +1,19 @@
+name: "Add a brand"
+description: "Append a new brand + shop URL to Product Radar"
+title: "Add brand: "
+labels: ["brands:add"]
+body:
+  - type: input
+    id: brand_name
+    attributes:
+      label: Brand name
+      placeholder: e.g. Stüssy
+    validations:
+      required: true
+  - type: input
+    id: brand_url
+    attributes:
+      label: Shop URL
+      placeholder: https://www.stussy.com/
+    validations:
+      required: true
