@@ -1,1 +1,100 @@
+name: Maintain brands list
 
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  handle-brand-change:
+    if: |
+      contains(join(github.event.issue.labels.*.name, ','), 'brands:add') ||
+      contains(join(github.event.issue.labels.*.name, ','), 'brands:remove')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Extract fields from issue form
+        id: parse
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.issue.body || "";
+            function readField(label){
+              const re = new RegExp(`\\*\\*${label}\\*\\*[\\r\\n]+(.+?)(\\r?\\n|$)`, 'i');
+              const m = body.match(re);
+              return m ? m[1].trim() : "";
+            }
+            const isAdd = context.payload.issue.labels.some(l => l.name === 'brands:add');
+            const action = isAdd ? "add" : "remove";
+            const name = readField("Brand name");
+            let url = readField("Shop URL");
+
+            if (action === "add" && url && !/^https?:\\/\\//i.test(url)) {
+              url = "https://" + url;
+            }
+
+            core.setOutput("action", action);
+            core.setOutput("brand_name", name);
+            core.setOutput("brand_url", url);
+
+      - name: Validate inputs
+        run: |
+          echo "Action: ${{ steps.parse.outputs.action }}"
+          echo "Name:   ${{ steps.parse.outputs.brand_name }}"
+          echo "URL:    ${{ steps.parse.outputs.brand_url }}"
+          if [ -z "${{ steps.parse.outputs.brand_name }}" ]; then
+            echo "Brand name missing"; exit 1; fi
+          if [ "${{ steps.parse.outputs.action }}" = "add" ] && [ -z "${{ steps.parse.outputs.brand_url }}" ]; then
+            echo "URL missing"; exit 1; fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Apply change to brands.json
+        run: |
+          python scripts/apply_brand_change.py \
+            --action "${{ steps.parse.outputs.action }}" \
+            --name "${{ steps.parse.outputs.brand_name }}" \
+            --url "${{ steps.parse.outputs.brand_url }}"
+
+      - name: Commit update
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add brands.json
+          git commit -m "brands: ${{ steps.parse.outputs.action }} ${{ steps.parse.outputs.brand_name }}" || echo "Nothing to commit"
+          git push
+
+      - name: Comment success
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const action = '${{ steps.parse.outputs.action }}';
+            const name = '${{ steps.parse.outputs.brand_name }}';
+            const url = '${{ steps.parse.outputs.brand_url }}';
+            let msg = action === 'add'
+              ? `✅ Added **${name}** (${url}) to brands.json`
+              : `✅ Removed **${name}** from brands.json`;
+            github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: msg
+            });
+
+      - name: Close issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: "closed"
+            })
