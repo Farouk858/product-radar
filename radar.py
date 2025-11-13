@@ -13,11 +13,12 @@ import json
 import re
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Tuple
 
 from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright
-
+from playwright.sync_api import sync_playwright, TimeoutError as PWTimeoutError
 from radar_selectors import GENERIC_KEYWORDS, BRAND_HINTS
+
 
 # ---------- Repo paths ----------
 STATE_PATH = Path("data/state.json")
