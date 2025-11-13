@@ -27,6 +27,16 @@ REPORTS_DIR.mkdir(parents=True, exist_ok=True)
 STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
 
 # ---------- Email env ----------
+# Page + fetch tuning
+DEFAULT_GOTO_TIMEOUT = 35000        # 35s per navigation
+DEFAULT_WAIT_AFTER_DOM = 1500       # short settle
+RETRIES_PER_URL = 2
+
+UA_DESKTOP = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+)
+
 EMAIL_USER = os.getenv("EMAIL_USER")      # e.g. your Gmail address
 EMAIL_PASS = os.getenv("EMAIL_PASS")      # Gmail app password
 EMAIL_TO   = os.getenv("EMAIL_TO")        # recipient address
@@ -76,35 +86,84 @@ def find_candidate_products(html: str, base_url: str):
     sample = sorted(products)[:25]
     return sample, hits
 
-def brand_scan(play, brand, url):
-    browser = play.chromium.launch(args=["--no-sandbox"])
-    page = browser.new_page()
+def brand_scan(play, brand: str, url: str):
+    """
+    Visit the site and any brand-specific alt paths.
+    Never hang on 'networkidle' ~ use DOMContentLoaded + short settle.
+    Block heavy assets to reduce load + chance of timeouts.
+    """
+    browser = play.chromium.launch(
+        headless=True,
+        args=[
+            "--no-sandbox",
+            "--disable-dev-shm-usage",
+            "--disable-blink-features=AutomationControlled",
+        ],
+    )
+    context = browser.new_context(
+        user_agent=UA_DESKTOP,
+        locale="en-GB",
+        timezone_id="Europe/London",
+        viewport={"width": 1366, "height": 2000},
+    )
+
+    # Block heavy/3rd-party requests to speed up loads
+    def block_resources(route):
+        req = route.request
+        url_l = req.url.lower()
+        if any(url_l.endswith(ext) for ext in (".png", ".jpg", ".jpeg", ".webp", ".gif", ".svg", ".mp4", ".webm", ".woff", ".woff2", ".ttf")):
+            return route.abort()
+        if any(host in url_l for host in ("doubleclick.net", "googletagmanager.com", "analytics", "facebook.net", "tiktokcdn")):
+            return route.abort()
+        return route.continue_()
+
+    context.route("**/*", block_resources)
+    page = context.new_page()
+
+    def safe_visit(target_url: str):
+        """Try visiting a URL with retries; return (products, hits, note)."""
+        last_err = None
+        for attempt in range(1, RETRIES_PER_URL + 1):
+            try:
+                page.set_default_navigation_timeout(DEFAULT_GOTO_TIMEOUT)
+                page.goto(target_url, wait_until="domcontentloaded", timeout=DEFAULT_GOTO_TIMEOUT)
+                page.wait_for_timeout(DEFAULT_WAIT_AFTER_DOM)  # short settle
+                html = page.content()
+                sample, hits = find_candidate_products(html, target_url)
+                return sample, hits, ""
+            except PWTimeoutError:
+                last_err = f"timeout on attempt {attempt}"
+            except Exception as e:
+                last_err = f"error: {type(e).__name__}"
+        return [], [], last_err or "unknown error"
+
     found, notes = [], []
 
     try:
-        page.goto(url, timeout=60000)
-        page.wait_for_load_state("networkidle")
-        html = page.content()
-        sample, hits = find_candidate_products(html, url)
+        # Base URL
+        sample, hits, warn = safe_visit(url)
+        if warn:
+            notes.append(f"{warn} at base")
         if hits:
             notes.append(f"Page signals: {', '.join(sorted(set(hits)))}")
         found.extend(sample)
 
+        # Alt paths
+        from radar_selectors import BRAND_HINTS  # local import to avoid circulars if any
         for alt in BRAND_HINTS.get(brand, {}).get("alts", []):
-            try:
-                target = url.rstrip("/") + alt
-                page.goto(target, timeout=60000)
-                page.wait_for_load_state("networkidle")
-                html2 = page.content()
-                sample2, hits2 = find_candidate_products(html2, target)
-                if hits2:
-                    notes.append(f"{alt} signals: {', '.join(sorted(set(hits2)))}")
-                found.extend(sample2)
-            except Exception:
-                pass
+            target = url.rstrip("/") + alt
+            sample2, hits2, warn2 = safe_visit(target)
+            if warn2:
+                notes.append(f"{alt} {warn2}")
+            if hits2:
+                notes.append(f"{alt} signals: {', '.join(sorted(set(hits2)))}")
+            found.extend(sample2)
+
     finally:
+        context.close()
         browser.close()
 
+    # De-dup
     dedup, seen = [], set()
     for p in found:
         key = p.lower()
@@ -113,6 +172,7 @@ def brand_scan(play, brand, url):
             dedup.append(p)
 
     return dedup[:30], notes
+
 
 def format_markdown(date_str, brand, rows, expl_notes, newly_added):
     header = f"{date_str} | {brand}"
