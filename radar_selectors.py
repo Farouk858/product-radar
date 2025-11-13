@@ -1,4 +1,4 @@
-# selectors.py
+# radar_selectors.py
 
 GENERIC_KEYWORDS = [
     "bestseller", "best seller", "best-selling",
@@ -29,4 +29,3 @@ BRAND_HINTS = {
         "alts": ["/collections/new-in", "/collections/bestsellers"],
     },
 }
-
