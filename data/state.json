@@ -1,122 +1,782 @@
 {
   "Corteiz": [
-    "3M COLLEGE KNIT ZIP HOODIE [OLIVE]",
-    "3M COLLEGE KNIT ZIP HOODIE [WINE]",
-    "ALCATRAZ CARGO PANT [BLACK]",
-    "ARDWEAR WORK SWEATPANT [NAVY]",
-    "ARDWEAR WORK ZIP HOODIE [NAVY]",
-    "BIAS PANEL SHUKU JACKET [OLIVE]",
-    "BIAS PANEL SHUKU PANT [OLIVE]",
-    "BLACK ALCATRAZ BOXERS [3 PACK]",
-    "BLACK ALCATRAZ SOCKS [2 PACK]",
-    "BLACK ALLSTARZ BOXERS [3 PACK]",
-    "BOLO DOWN JACKET [OLIVE]",
-    "BOLO DOWN JACKET [TRIPLE BLACK]",
-    "CONSIGLIERE TRACK JACKET [GREY]",
-    "CONSIGLIERE TRACK PANT [GREY]",
-    "CREST CHAINSTITCH BAGGY JEANS [TAN]",
-    "CREST CHAINSTITCH DENIM TRUCKER [TAN]",
-    "CRIB CREP [OLIVE]",
-    "DUAL STRIPE BAGGY JEANS [MIDWASH]",
-    "DUAL STRIPE DENIM TRUCKER [MIDWASH]",
-    "ELITEWORK™ WATERPROOF SHELL JACKET V2 [KHAKI]",
-    "ELITEWORK™ WATERPROOF SHELL PANT [KHAKI]",
-    "GUERILLAZ KNIT SWEATER [NAVY]",
-    "GUERILLAZ RIPSTOP ZIP HOODIE [OLIVE]",
-    "GUERILLAZ THERMAL LS TEE [BLACK]",
-    "GUERILLAZ THERMAL LS TEE [CREAM]"
+    {
+      "name": "TRIBAL TEE [WHITE]",
+      "url": "https://crtz.xyz/products/tribal-tee-white",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "TRIBAL TEE [BLACK]",
+      "url": "https://crtz.xyz/products/tribal-tee-black",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "TRIBAL TEE [ORANGE]",
+      "url": "https://crtz.xyz/products/tribal-tee-orange",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "NOODLE TEE [WHITE]",
+      "url": "https://crtz.xyz/products/noodle-tee-white",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "NOODLE TEE [BLACK]",
+      "url": "https://crtz.xyz/products/noodle-tee-black",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "NOODLE TEE [PINK]",
+      "url": "https://crtz.xyz/products/noodle-tee-pink",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "ELITEWORK™ WATERPROOF SHELL JACKET V2 [KHAKI]",
+      "url": "https://crtz.xyz/products/elitework-shell-jacket-v2",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "ELITEWORK™ WATERPROOF SHELL PANT [KHAKI]",
+      "url": "https://crtz.xyz/products/elitework-shell-pant-khaki",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "BOLO DOWN JACKET [TRIPLE BLACK]",
+      "url": "https://crtz.xyz/products/bolo-v2-puffer-jacket-2025-black",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "ALCATRAZ CARGO PANT [BLACK]",
+      "url": "https://crtz.xyz/products/guerillaz-cargos-black-white",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "BOLO DOWN JACKET [OLIVE]",
+      "url": "https://crtz.xyz/products/bolo-v2-puffer-jacket-2025-olive",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "SHIELD CREST TWILL JACKET [BLACK]",
+      "url": "https://crtz.xyz/products/shield-twill-jacket",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "CREST CHAINSTITCH DENIM TRUCKER [TAN]",
+      "url": "https://crtz.xyz/products/crest-chainstitch-denim-trucker",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "CREST CHAINSTITCH BAGGY JEANS [TAN]",
+      "url": "https://crtz.xyz/products/crest-chainstitch-denim-jeans-1",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "DUAL STRIPE DENIM TRUCKER [MIDWASH]",
+      "url": "https://crtz.xyz/products/dual-stripe-denim-trucker",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "DUAL STRIPE BAGGY JEANS [MIDWASH]",
+      "url": "https://crtz.xyz/products/dual-stripe-denim-baggy-jeans-midwash",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "CONSIGLIERE TRACK JACKET [GREY]",
+      "url": "https://crtz.xyz/products/piping-tricot-track-jacket",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "CONSIGLIERE TRACK PANT [GREY]",
+      "url": "https://crtz.xyz/products/piping-tricot-open-hem-track-jacket",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "BIAS PANEL SHUKU JACKET [OLIVE]",
+      "url": "https://crtz.xyz/products/bias-panel-shuku-jacket",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "BIAS PANEL SHUKU PANT [OLIVE]",
+      "url": "https://crtz.xyz/products/bias-panel-shuku-pant-1",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "SHIELD SHUKU JACKET [NAVY]",
+      "url": "https://crtz.xyz/products/shields-shuku-jacket",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "SHIELD SHUKU PANT [NAVY]",
+      "url": "https://crtz.xyz/products/shields-shuku-pant",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "ISLAND PUFF PRINT ZIP HOODIE [BROWN]",
+      "url": "https://crtz.xyz/products/island-puff-zip-hoodie-brown1",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "ISLAND PUFF PRINT OPEN HEM SWEATPANT [BROWN]",
+      "url": "https://crtz.xyz/products/island-puff-open-hem-sweatpant-brown",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "ARDWEAR WORK ZIP HOODIE [NAVY]",
+      "url": "https://crtz.xyz/products/shank-hoodie",
+      "score": 1.0,
+      "status": "available"
+    }
   ],
   "Represent": [
-    "247",
-    "All",
-    "Alpha 2.0",
-    "Apex",
-    "Arc",
-    "Browse products",
-    "Bully",
-    "Change language & shipping location",
-    "Clothing",
-    "Country",
-    "Discover: New Arrivals",
-    "Edit Your Order",
-    "Explore collections",
-    "Fall Winter '25",
-    "Gift Card",
-    "HTN",
-    "Initial",
-    "JOIN REPRESENT PRESTIGE",
-    "LOGO PACK BUNDLE",
-    "Mules",
-    "OrderEditing",
-    "Owners Club",
-    "REGISTER FOR EARLY ACCESS",
-    "Reptor",
-    "Sliders",
-    "Cookie List",
-    "GH T-Shirt",
-    "Manage Consent Preferences",
-    "Micro Owners Club Cap",
-    "Micro Owners Club Card Holder"
+    {
+      "name": "Gift Card",
+      "url": "https://representclo.com/products/gift-card",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Clothing",
+      "url": "https://representclo.com/collections/discover-all-products",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "All",
+      "url": "https://representclo.com/collections/discover-all-products",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Browse products",
+      "url": "https://representclo.com/collections/discover-all-products",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Your cart",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "REGISTER FOR EARLY ACCESS",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Discover: New Arrivals",
+      "url": "",
+      "score": 4.0,
+      "status": "available"
+    },
+    {
+      "name": "Explore collections",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Fall Winter '25",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "247",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Initial",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Owners Club",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Woman",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "JOIN REPRESENT PRESTIGE",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Country",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "LOGO PACK BUNDLE",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "OrderEditing",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Edit Your Order",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Change language & shipping location",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Welcome to Represent",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Arc",
+      "url": "https://representclo.com/collections/arc",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Initial",
+      "url": "https://representclo.com/collections/initial-sneaker",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Alpha 2.0",
+      "url": "https://representclo.com/collections/alpha-2-0",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Storm",
+      "url": "https://representclo.com/collections/storm-runner",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Studio",
+      "url": "https://representclo.com/collections/studio-sneaker",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "XXSXSSXXL MLXL Represent Owners Club T-Shirt faded black 11 Colors $ $115 $115",
+      "url": "https://representclo.com/products/fw25-represent-owners-club-t-shirt-faded-black",
+      "score": 3.0,
+      "status": "available"
+    },
+    {
+      "name": "XSSM LXLXXL Represent X Puma King Jersey shoji $ $140 $140",
+      "url": "https://representclo.com/products/represent-x-puma-king-jersey-shoji-aop",
+      "score": 3.0,
+      "status": "available"
+    },
+    {
+      "name": "XXSS XSMLXLXXL Represent Owners Club Hoodie faded black 12 Colors $ $200 $200",
+      "url": "https://representclo.com/products/fw25-represent-owners-club-hoodie-faded-black",
+      "score": 3.0,
+      "status": "available"
+    },
+    {
+      "name": "XXSXSXXL SMLXL Represent Owners Club T-Shirt flat white 11 Colors $ $115 $115",
+      "url": "https://representclo.com/products/fw25-represent-owners-club-t-shirt-flat-white",
+      "score": 3.0,
+      "status": "available"
+    },
+    {
+      "name": "XXSXXL XSSMLXL Represent Owners Club T-Shirt buttercream 11 Colors $ $115 $115",
+      "url": "https://representclo.com/products/fw25-represent-owners-club-t-shirt-buttercream",
+      "score": 3.0,
+      "status": "available"
+    }
   ],
   "Supreme": [
-    "11/15/2025 03:29am NYC",
-    "new"
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/23gjt__6t96l2-xy",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/_au9z4vl3wdb5nx_",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/h-sfh-s7pqucu7we",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/povdcjs1yakuably",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/rov-ah0zauf5b-ee",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/zwkyb3th5wtw20dd",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/nzxljwrqvilpvwpm",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/iu2ppqld-wfvrpx",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/3ey7wqrussvgkofp",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/jaiwsd0vuaszntxw",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/qxq3dh0ak96rgm",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/ovlvtu-ezhzdeuhu",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/ikhm8j61uyzvmblm",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/cfycd38epnf02nja",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/imyw0hcg7c4sjoyi",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/qfflptpqzvrnd9tm",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/xfz-onx4w6zzz_wy",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/iywl8tlojzi6wxec",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/640z5vty0u1i12cb",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "new",
+      "url": "https://www.supremenewyork.com/products/nfb1-asvipzn6fe",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "11/15/2025 08:19am NYC",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    }
   ],
   "Palace": [
-    "APPLIQUE CAMO JACKET WOODLAND CAMO",
-    "APPLIQUE CAMO JACKET WOODLAND CAMO$1,198",
-    "ARCH FUNNEL KNIT NAVY",
-    "ARCH FUNNEL KNIT NAVY$208",
-    "ARCH FUNNEL KNIT STONEY GREY",
-    "ARCH FUNNEL KNIT STONEY GREY$208",
-    "ARCH FUNNEL KNIT TRUEST RED",
-    "ARCH FUNNEL KNIT TRUEST RED$208",
-    "BOSSY CANVAS JACKET BLACK",
-    "BOSSY CANVAS JACKET BLACK$368",
-    "BOSSY CANVAS JACKET GREY",
-    "BOSSY CANVAS JACKET GREY$368",
-    "DOUBLE VISION KNIT GREEN",
-    "DOUBLE VISION KNIT GREEN$208",
-    "DOUBLE VISION KNIT PURPLE",
-    "DOUBLE VISION KNIT PURPLE$208",
-    "GORE-TEX 3L PALEX JACKET BLACK",
-    "GORE-TEX 3L PALEX JACKET BLACK$548",
-    "GORE-TEX 3L PALEX JACKET CLOUD",
-    "GORE-TEX 3L PALEX JACKET CLOUD$548",
-    "GORE-TEX 3L PALEX JACKET FLAME",
-    "GORE-TEX 3L PALEX JACKET FLAME$548",
-    "GORE-TEX WINDSTOPPER P51 PARKA BLACK",
-    "GORE-TEX WINDSTOPPER P51 PARKA BLACK$428",
-    "GORE-TEX WINDSTOPPER P51 PARKA OLIVE",
-    "DENIM WESTERN OVER SHIRT BLACK",
-    "DENIM WESTERN OVER SHIRT BLACKSold Out",
-    "DENIM WESTERN OVER SHIRT STONE WASH",
-    "DENIM WESTERN OVER SHIRT STONE WASH$158",
-    "FURRY EARS BALACLAVA BLACK"
+    {
+      "name": "PALACE DORAEMON AVIREX JACKET BLACK$1,898",
+      "url": "https://shop.palaceskateboards.com/products/rgvohgk1m13q",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "PALACE DORAEMON AVIREX JACKET YELLOW$1,898",
+      "url": "https://shop.palaceskateboards.com/products/ilk00nkpeab6",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "SUSANOO LEATHER FLIGHT JACKET BROWNSold Out",
+      "url": "https://shop.palaceskateboards.com/products/k9pid313yb6d",
+      "score": 1.0,
+      "status": "sold out"
+    },
+    {
+      "name": "APPLIQUE CAMO JACKET WOODLAND CAMO$1,198",
+      "url": "https://shop.palaceskateboards.com/products/a7ozlg6n3ovd",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "PATCHY LEATHER JACKET MULTI$1,198",
+      "url": "https://shop.palaceskateboards.com/products/6hqlxi6tuqbb",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "MARK BODĒ VARSITY JACKET BLACK$688",
+      "url": "https://shop.palaceskateboards.com/products/a8bpxy961d84",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "GORE-TEX 3L PALEX JACKET FLAME$548",
+      "url": "https://shop.palaceskateboards.com/products/dblm99bq0fti",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "GORE-TEX 3L PALEX JACKET BLACK$548",
+      "url": "https://shop.palaceskateboards.com/products/sbbun8e4j5ba",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "GORE-TEX 3L PALEX JACKET CLOUD$548",
+      "url": "https://shop.palaceskateboards.com/products/h4bv705sf17x",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "GORE-TEX WINDSTOPPER P51 PARKA BLACK$428",
+      "url": "https://shop.palaceskateboards.com/products/2jugi4iygy3j",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "GORE-TEX WINDSTOPPER P51 PARKA OLIVESold Out",
+      "url": "https://shop.palaceskateboards.com/products/278g271cjjuw",
+      "score": 1.0,
+      "status": "sold out"
+    },
+    {
+      "name": "PERTEX QUANTUM RS PUFFA PURPLESold Out",
+      "url": "https://shop.palaceskateboards.com/products/jqrgaqwai2bb",
+      "score": 1.0,
+      "status": "sold out"
+    },
+    {
+      "name": "PERTEX QUANTUM RS PUFFA BLACKSold Out",
+      "url": "https://shop.palaceskateboards.com/products/gtql9mgr5kta",
+      "score": 1.0,
+      "status": "sold out"
+    },
+    {
+      "name": "PERTEX QUANTUM RS PUFFA GREY$478",
+      "url": "https://shop.palaceskateboards.com/products/rlfkk8zi0ywl",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "PERTEX QUANTUM RS PUFFA BLUESold Out",
+      "url": "https://shop.palaceskateboards.com/products/65ykr102pa8h",
+      "score": 1.0,
+      "status": "sold out"
+    },
+    {
+      "name": "PERTEX QUANTUM RS PUFFA ORANGESold Out",
+      "url": "https://shop.palaceskateboards.com/products/55chv9grtzn7",
+      "score": 1.0,
+      "status": "sold out"
+    },
+    {
+      "name": "PALACE BARBOUR FIELD CASUAL JACKET BLACK$930",
+      "url": "https://shop.palaceskateboards.com/products/14dqgc3ha8dc",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "PALACE BARBOUR FIELD CASUAL JACKET KELP FOREST CAMO$970",
+      "url": "https://shop.palaceskateboards.com/products/liwfw9hxprbz",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "NEED FOR P'S JACKET GREEN$428",
+      "url": "https://shop.palaceskateboards.com/products/7wztd7o1zy6a",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "NEED FOR P'S JACKET BLACK$428",
+      "url": "https://shop.palaceskateboards.com/products/4nuzt5pds58y",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "NEED FOR P'S JACKET WHITESold Out",
+      "url": "https://shop.palaceskateboards.com/products/atv0fuf673up",
+      "score": 1.0,
+      "status": "sold out"
+    },
+    {
+      "name": "RIPSTOP PUFFA LIME$388",
+      "url": "https://shop.palaceskateboards.com/products/y15uaxxz733k",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "RIPSTOP PUFFA GREY$388",
+      "url": "https://shop.palaceskateboards.com/products/9m48kscjwypt",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "RIPSTOP PUFFA BLACK$388",
+      "url": "https://shop.palaceskateboards.com/products/ofnlqsztvyyo",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "PERTEX NETPLUS MICROLITE JACKET BLACK / CARBON$298",
+      "url": "https://shop.palaceskateboards.com/products/opjv375wfhpq",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "POLARTEC JACKET OLIVE / BLACKSold Out",
+      "url": "https://shop.palaceskateboards.com/products/a1oqenmetp25",
+      "score": 3.0,
+      "status": "sold out"
+    },
+    {
+      "name": "POLARTEC JACKET GREY / REDSold Out",
+      "url": "https://shop.palaceskateboards.com/products/gtvmh53185g2",
+      "score": 3.0,
+      "status": "sold out"
+    },
+    {
+      "name": "POLARTEC JACKET BLACKSold Out",
+      "url": "https://shop.palaceskateboards.com/products/xcad7jda3nn8",
+      "score": 3.0,
+      "status": "sold out"
+    },
+    {
+      "name": "POLARTEC JACKET PALACE BLUE / NAVYSold Out",
+      "url": "https://shop.palaceskateboards.com/products/njbjjmld8apy",
+      "score": 3.0,
+      "status": "sold out"
+    },
+    {
+      "name": "PALAZIO KNIT BLACK$198",
+      "url": "https://shop.palaceskateboards.com/products/ejwhcccigqpv",
+      "score": 3.0,
+      "status": "available"
+    }
   ],
   "Aimé Leon Dore": [
-    "Applied Filters",
-    "Discover",
-    "Filter by",
-    "Lookbook",
-    "News",
-    "Recently Viewed",
-    "Recommendations",
-    "SHIPPING COUNTRY SUCCESSFULLY UPDATED.",
-    "Shop by",
-    "Sort by",
-    "UPDATE YOUR COUNTRY/REGION?"
+    {
+      "name": "UPDATE YOUR COUNTRY/REGION?",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "SHIPPING COUNTRY SUCCESSFULLY UPDATED.",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Filter by",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Applied Filters",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Discover",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Shop by",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Sort by",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Recommendations",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Recently Viewed",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Lookbook",
+      "url": "https://www.aimeleondore.com/blogs/news/fall-winter-2025-lookbook",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "News",
+      "url": "https://www.aimeleondore.com/blogs/news",
+      "score": 1.0,
+      "status": "available"
+    }
   ],
   "Jaded London": [
-    "Brand",
-    "Customer Service",
-    "Download App",
-    "Follow Us",
-    "No collections",
-    "Size Guide",
-    "Stay Posted",
-    "Student Discount",
-    "Terms & Conditions",
-    "404"
+    {
+      "name": "Size Guide",
+      "url": "https://jadedldn.com/en-us/pages/product-size-guide",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "No collections",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Customer Service",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Brand",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Student Discount",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Terms & Conditions",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Follow Us",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Download App",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "Stay Posted",
+      "url": "",
+      "score": 1.0,
+      "status": "available"
+    },
+    {
+      "name": "404",
+      "url": "",
+      "score": 3.0,
+      "status": "available"
+    },
+    {
+      "name": "Size Guide",
+      "url": "https://jadedldn.com/pages/product-size-guide",
+      "score": 4.0,
+      "status": "available"
+    }
   ]
 }
