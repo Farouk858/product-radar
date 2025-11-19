@@ -106,40 +106,157 @@ def product_key(prod: Dict[str, Any]) -> Tuple[str, str]:
     )
 
 
-def find_candidate_products(html: str, base_url: str, collection_hint: str | None = None) -> Tuple[List[Dict[str, Any]], List[str]]:
+def extract_products_from_json_ld(soup: BeautifulSoup, base_url: str) -> List[Dict[str, Any]]:
+    """
+    Look for <script type="application/ld+json"> blocks and extract
+    Product entries with name, url, price, rating, reviewCount.
+    """
+    products: List[Dict[str, Any]] = []
+
+    def normalise_url(u: str) -> str:
+        if not u:
+            return ""
+        return urljoin(base_url, u)
+
+    for script in soup.find_all("script", attrs={"type": "application/ld+json"}):
+        raw = script.string or script.text
+        if not raw:
+            continue
+        try:
+            data = json.loads(raw)
+        except Exception:
+            continue
+
+        # JSON-LD can be a single object or a list/graph
+        candidates: List[Dict[str, Any]] = []
+        if isinstance(data, dict):
+            candidates.append(data)
+            if "@graph" in data and isinstance(data["@graph"], list):
+                candidates.extend(data["@graph"])
+        elif isinstance(data, list):
+            candidates.extend(data)
+
+        for obj in candidates:
+            if not isinstance(obj, dict):
+                continue
+            t = obj.get("@type")
+            # Some sites use ["Product", "Thing"] etc.
+            if isinstance(t, list):
+                is_product = "Product" in t
+            else:
+                is_product = t == "Product"
+            if not is_product:
+                continue
+
+            name = (obj.get("name") or "").strip()
+            if not name:
+                continue
+
+            url = obj.get("url") or obj.get("@id") or ""
+            url = normalise_url(url)
+
+            # Price / currency
+            price = None
+            currency = None
+            offers = obj.get("offers")
+            if isinstance(offers, dict):
+                price = offers.get("price") or offers.get("priceSpecification", {}).get("price")
+                currency = offers.get("priceCurrency") or offers.get("priceSpecification", {}).get("priceCurrency")
+
+            # Ratings
+            rating_value = 0.0
+            review_count = 0.0
+            rating = obj.get("aggregateRating")
+            if isinstance(rating, dict):
+                try:
+                    rating_value = float(rating.get("ratingValue") or 0)
+                except Exception:
+                    rating_value = 0.0
+                try:
+                    review_count = float(rating.get("reviewCount") or rating.get("ratingCount") or 0)
+                except Exception:
+                    review_count = 0.0
+
+            products.append(
+                {
+                    "name": name,
+                    "url": url,
+                    "price": price,
+                    "currency": currency,
+                    "rating": rating_value,
+                    "reviews": review_count,
+                }
+            )
+
+    return products
+
+
+def find_candidate_products(
+    html: str,
+    base_url: str,
+    collection_hint: str | None = None,
+) -> Tuple[List[Dict[str, Any]], List[str]]:
     """
     Parse HTML and extract candidate products as dicts:
-    {name, url, score, status}
+    {name, url, score, price?, currency?, rating?, reviews?}
 
     Score heuristic:
     - base 1
-    - +2 if collection_hint suggests "new" or "drop"
-    - +3 if collection_hint suggests "best", "popular"
+    - +2 if collection_hint suggests "new" / "drop"
+    - +3 if collection_hint suggests "best" / "popular"
     - +3 if product name contains generic keywords
-
-    Status heuristic:
-    - "sold out" in name -> sold out
-    - "only ... left" in name -> low stock
+    - +rating_value (0–5 typically)
+    - +min(5, reviews/10) so lots of reviews bump score
     """
     soup = BeautifulSoup(html, "lxml")
-    text = soup.get_text(" ").lower()
+    full_text = soup.get_text(" ").lower()
 
-    hits = [kw for kw in GENERIC_KEYWORDS if kw in text]
+    # Page-level keyword hits for reporting
+    hits = [kw for kw in GENERIC_KEYWORDS if kw in full_text]
 
     # Collection-level score bump
     base_score = 1.0
     if collection_hint:
         hint_l = collection_hint.lower()
-        if any(k in hint_l for k in ["best", "popular", "bestseller"]):
+        if any(k in hint_l for k in ["best", "popular", "bestseller", "top"]):
             base_score += 3.0
-        if any(k in hint_l for k in ["new", "latest", "drop", "arrivals"]):
+        if any(k in hint_l for k in ["new", "latest", "drop", "arrivals", "just-dropped"]):
             base_score += 2.0
 
     products: Dict[Tuple[str, str], Dict[str, Any]] = {}
 
+    # 1) Structured data first (JSON-LD)
+    for prod in extract_products_from_json_ld(soup, base_url):
+        name = normalise_text(prod["name"])
+        url = prod.get("url") or ""
+        rating = float(prod.get("rating") or 0.0)
+        reviews = float(prod.get("reviews") or 0.0)
+
+        score = base_score
+        lower_name = name.lower()
+        if any(kw in lower_name for kw in GENERIC_KEYWORDS):
+            score += 3.0
+        score += rating  # up to ~5
+        score += min(5.0, reviews / 10.0)  # lots of reviews bump score
+
+        key = (name.lower(), url.lower())
+        existing = products.get(key)
+        record = {
+            "name": name,
+            "url": url,
+            "price": prod.get("price"),
+            "currency": prod.get("currency"),
+            "score": score,
+        }
+        if existing:
+            if score > existing["score"]:
+                existing.update(record)
+        else:
+            products[key] = record
+
+    # 2) Fallback to tile-based selectors for sites without schema / to catch extras
     selectors = [
         "a[href*='/products/']",
-        "a[href*='product']",
         "[class*='product'] a",
         "h2, h3, .product-title, .ProductItem__Title, .card__heading",
         "a:has(img)",
@@ -153,7 +270,7 @@ def find_candidate_products(html: str, base_url: str, collection_hint: str | Non
             if re.match(r"^(home|shop|cart|menu|search)$", name, re.I):
                 continue
 
-            # Find a URL for this product
+            # Find URL
             href = ""
             if el.name == "a" and el.get("href"):
                 href = el["href"]
@@ -161,37 +278,35 @@ def find_candidate_products(html: str, base_url: str, collection_hint: str | Non
                 a_parent = el.find_parent("a")
                 if a_parent and a_parent.get("href"):
                     href = a_parent["href"]
+            if not href:
+                continue
+            href = urljoin(base_url, href)
 
-            if href:
-                href = urljoin(base_url, href)
+            # Local text around element for keyword scoring
+            local_text = " ".join(
+                (el.get_text(" "), " ".join([c.get_text(" ") for c in el.parents if hasattr(c, "get_text")][:2]))
+            ).lower()
 
-            # Status heuristic based on name text
-            lower_name = name.lower()
-            status = "available"
-            if "sold out" in lower_name:
-                status = "sold out"
-            elif "only" in lower_name and "left" in lower_name:
-                status = "low stock"
-
-            # Score this product
             score = base_score
-            if any(kw in lower_name for kw in GENERIC_KEYWORDS):
+            if any(kw in local_text for kw in GENERIC_KEYWORDS):
                 score += 3.0
 
             key = (name.lower(), href.lower())
             existing = products.get(key)
+            record = {
+                "name": name,
+                "url": href,
+                "price": None,
+                "currency": None,
+                "score": score,
+            }
             if existing:
                 if score > existing["score"]:
-                    existing["score"] = score
+                    existing.update(record)
             else:
-                products[key] = {
-                    "name": name,
-                    "url": href,
-                    "score": score,
-                    "status": status,
-                }
+                products[key] = record
 
-    return list(products.values())[:25], hits
+    return list(products.values())[:40], hits
 
 
 def brand_scan(play, brand: str, url: str) -> Tuple[List[Dict[str, Any]], List[str]]:
