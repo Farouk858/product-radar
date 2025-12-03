@@ -197,15 +197,15 @@
       "score": 1.0
     },
     {
-      "name": "3M COLLEGE KNIT ZIP HOODIE [BLACK]",
-      "url": "https://crtz.xyz/products/3m-college-knit-zip-hoodie-black",
+      "name": "ALCATRAZ HEAVY KNIT ZIP HOODIE [BLACK]",
+      "url": "https://crtz.xyz/products/alcatraz-heavy-knit-zip-hoodie-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "MULTI STRIPE KNIT ZIP UP [BLACK]",
-      "url": "https://crtz.xyz/products/ribbed-raglan-piped-zip-up-black",
+      "name": "3M COLLEGE KNIT ZIP HOODIE [BLACK]",
+      "url": "https://crtz.xyz/products/3m-college-knit-zip-hoodie-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -227,7 +227,7 @@
       "score": 1.0
     },
     {
-      "name": "+EXTRA 30% OFF 30% OFF SMXL XSLXXL Team 247 Oversized T-Shirt black 4 Colors $100 $70 $70",
+      "name": "+EXTRA 30% OFF 30% OFF SM XSLXLXXL Team 247 Oversized T-Shirt black 4 Colors $100 $70 $70",
       "url": "https://representclo.com/products/team-247-oversized-t-shirt-black",
       "price": null,
       "currency": null,
@@ -236,6 +236,13 @@
     {
       "name": "+EXTRA 30% OFF 45% OFF XXSXSSMLXLXXL Represent Owners Club Hoodie cobalt 11 Colors $200 $110 $110",
       "url": "https://representclo.com/products/represent-owners-club-hoodie-cobalt",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "+EXTRA 30% OFF 38% OFF XSSMLXLXXL XXS Represent Owners Club Hoodie black 11 Colors $200 $125 $125",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -269,20 +276,6 @@
       "score": 1.0
     },
     {
-      "name": "+EXTRA 30% OFF 38% OFF XSSMLXLXXL XXS Represent Owners Club Hoodie black 11 Colors $200 $125 $125",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "+EXTRA 30% OFF 38% OFF XSS XXSMLXLXXL Represent Owners Club Hoodie black matte 11 Colors $200 $125 $125",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-black-matte",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "+EXTRA 30% OFF 30% OFF XSSMLXLXXL XXS Hermes T-Shirt flat white 3 Colors $140 $98 $98",
       "url": "https://representclo.com/products/hermes-t-shirt-flat-white",
       "price": null,
@@ -290,8 +283,8 @@
       "score": 1.0
     },
     {
-      "name": "Cracked Leather Cross Body Bag 55%",
-      "url": "https://representclo.com/products/cracked-leather-cross-body-bag-antique-white",
+      "name": "+EXTRA 30% OFF 40% OFF MLXLXXL XXSXSS Keys To The Club T-Shirt flat white $140 $84 $84",
+      "url": "https://representclo.com/products/keys-to-the-club-t-shirt-flat-white",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -304,15 +297,22 @@
       "score": 1.0
     },
     {
-      "name": "Team 247 Arm Warmers 30%",
-      "url": "https://representclo.com/products/team-247-arm-warmers-black",
+      "name": "247 Sling Bag 60%",
+      "url": "https://representclo.com/products/247-sling-bag-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "Textured Knit Beanie 30%",
-      "url": "https://representclo.com/products/textured-knit-beanie-nero",
+      "url": "https://representclo.com/products/textured-knit-beanie-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Canvas Tote Bag 65%",
+      "url": "https://representclo.com/products/canvas-tote-bag-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -325,8 +325,8 @@
       "score": 1.0
     },
     {
-      "name": "Field Cap 70%",
-      "url": "https://representclo.com/products/womens-field-cap-black",
+      "name": "Check Initial Trucker Cap 35%",
+      "url": "https://representclo.com/products/check-initial-trucker-cap-jet-black-white",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -346,6 +346,13 @@
       "score": 1.0
     },
     {
+      "name": "England Applique Beanie 35%",
+      "url": "https://representclo.com/products/england-applique-beanie-grey-marl",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
       "name": "Fuel Shorts 60%",
       "url": "https://representclo.com/products/womens-fuel-shorts-jet-black",
       "price": null,
@@ -360,22 +367,8 @@
       "score": 1.0
     },
     {
-      "name": "247 Sling Bag 60%",
-      "url": "https://representclo.com/products/247-sling-bag-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "247 New York Arm Warmers 60%",
-      "url": "https://representclo.com/products/247-new-york-arm-warmers-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Canvas Tote Bag 65%",
-      "url": "https://representclo.com/products/canvas-tote-bag-jet-black",
+      "name": "247 Logo Wrist Bands 30%",
+      "url": "https://representclo.com/products/247-logo-wrist-bands-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -383,6 +376,20 @@
     {
       "name": "Initial V Notch Sweater 50%",
       "url": "https://representclo.com/products/womens-initial-v-notch-sweat-washed-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Subway Jacket 60%",
+      "url": "https://representclo.com/products/womens-subway-jacket-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Owners Club Contour Seamless Legging 70%",
+      "url": "https://representclo.com/products/womens-owners-club-contour-seamless-legging-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -411,13 +418,6 @@
     {
       "name": "Represent Owners Club Woven Tote Bag 45%",
       "url": "https://representclo.com/products/represent-owners-club-woven-tote-bag-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Check Initial Trucker Cap 35%",
-      "url": "https://representclo.com/products/check-initial-trucker-cap-jet-black-white",
       "price": null,
       "currency": null,
       "score": 1.0
