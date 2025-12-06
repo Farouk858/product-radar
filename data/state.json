@@ -220,13 +220,6 @@
       "score": 4.0
     },
     {
-      "name": "+EXTRA 30% OFF 50% OFF XSSMLXLXXL XXS Reborn T-Shirt flat white $140 $70 $70",
-      "url": "https://representclo.com/products/reborn-t-shirt-flat-white",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "+EXTRA 30% OFF 55% OFF XSSMLXL XXSXXL Elegance In Motion T-Shirt jet black 3 Colors $140 $63 $63",
       "url": "https://representclo.com/products/elegance-in-motion-t-shirt-jet-black",
       "price": null,
@@ -241,13 +234,6 @@
       "score": 1.0
     },
     {
-      "name": "+EXTRA 30% OFF 30% OFF SM XSLXLXXL Team 247 Oversized T-Shirt black 4 Colors $100 $70 $70",
-      "url": "https://representclo.com/products/team-247-oversized-t-shirt-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "+EXTRA 30% OFF 45% OFF XXSXSSMLXLXXL Represent Owners Club Hoodie cobalt 11 Colors $200 $110 $110",
       "url": "https://representclo.com/products/represent-owners-club-hoodie-cobalt",
       "price": null,
@@ -255,14 +241,21 @@
       "score": 1.0
     },
     {
-      "name": "+EXTRA 30% OFF 50% OFF XSSMLXXL XXSXL Icarus T-Shirt jet black 5 Colors $140 $70 $70",
+      "name": "+EXTRA 30% OFF 30% OFF SM XSLXLXXL Team 247 Oversized T-Shirt black 4 Colors $100 $70 $70",
+      "url": "https://representclo.com/products/team-247-oversized-t-shirt-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "+EXTRA 30% OFF 50% OFF XSSML XXSXLXXL Icarus T-Shirt jet black 5 Colors $140 $70 $70",
       "url": "https://representclo.com/products/icarus-t-shirt-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "+EXTRA 30% OFF 50% OFF XSSMLXLXXL XXS Icarus T-Shirt flat white 5 Colors $140 $70 $70",
+      "name": "+EXTRA 30% OFF 50% OFF XSSMLXL XXSXXL Icarus T-Shirt flat white 5 Colors $140 $70 $70",
       "url": "https://representclo.com/products/icarus-t-shirt-flat-white",
       "price": null,
       "currency": null,
@@ -285,6 +278,13 @@
     {
       "name": "+EXTRA 30% OFF 50% OFF XSSMLXLXXL XXS Classic Parts T-Shirt flat white 2 Colors $155 $78 $78",
       "url": "https://representclo.com/products/classic-parts-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "+EXTRA 30% OFF 40% OFF MLXLXXL XXSXSS Keys To The Club T-Shirt flat white $140 $84 $84",
+      "url": "https://representclo.com/products/keys-to-the-club-t-shirt-flat-white",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -353,13 +353,6 @@
       "score": 1.0
     },
     {
-      "name": "Mini Represent Socks - 3 Pack 30%",
-      "url": "https://representclo.com/products/mini-represent-socks-3-pack-cobalt",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "Owners Club Legging 70%",
       "url": "https://representclo.com/products/womens-owners-club-legging-safari",
       "price": null,
@@ -375,7 +368,21 @@
     },
     {
       "name": "Mini Represent Socks - 3 Pack 30%",
+      "url": "https://representclo.com/products/mini-represent-socks-3-pack-cobalt",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Mini Represent Socks - 3 Pack 30%",
       "url": "https://representclo.com/products/mini-represent-socks-3-pack-bubblegum-pink",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Slub Tank 30%",
+      "url": "https://representclo.com/products/slub-tank-flat-white",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -411,13 +418,6 @@
     {
       "name": "Workshop Pant 40%",
       "url": "https://representclo.com/products/workshop-pant-cedar",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Swim Shorts 55%",
-      "url": "https://representclo.com/products/swim-shorts-electric-mint",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -574,6 +574,146 @@
   ],
   "Palace": [
     {
+      "name": "PALACE UGG LOONEY TUNES ULTRA MINI BOOT BLACK$230",
+      "url": "https://shop.palaceskateboards.com/products/t0o2kokc4an9",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES ULTRA MINI BOOT CHESTNUT$230",
+      "url": "https://shop.palaceskateboards.com/products/nyxu5xh5njox",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES ULTRA MINI BOOT YELLOW$230",
+      "url": "https://shop.palaceskateboards.com/products/q0oaashdxzz3",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES TASMAN SLIPPER BLACK$190",
+      "url": "https://shop.palaceskateboards.com/products/0xkco3jvrq83",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES TASMAN SLIPPER CHESTNUT$190",
+      "url": "https://shop.palaceskateboards.com/products/qjub7ep65xl8",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES TASMAN SLIPPER YELLOW$190",
+      "url": "https://shop.palaceskateboards.com/products/cym2n49gvk24",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES VARSITY JACKET BLACK$688",
+      "url": "https://shop.palaceskateboards.com/products/2vjrlrxdm4fg",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES HOOD PINK$198",
+      "url": "https://shop.palaceskateboards.com/products/pbcxp3b8x21j",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES JOGGER PINK$168",
+      "url": "https://shop.palaceskateboards.com/products/t6xfoqmi08ij",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES HOOD BLACKSold Out",
+      "url": "https://shop.palaceskateboards.com/products/gvz9y8dnoeeu",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES JOGGER BLACK$168",
+      "url": "https://shop.palaceskateboards.com/products/4ac9mu8tz4te",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES HOOD GREY MARL$198",
+      "url": "https://shop.palaceskateboards.com/products/qhlz45mrdpi5",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES JOGGER GREY MARL$168",
+      "url": "https://shop.palaceskateboards.com/products/jzjo74bzrcvb",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES HOOD CHESTNUT$198",
+      "url": "https://shop.palaceskateboards.com/products/97jogxemke1s",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES JOGGER CHESTNUTSold Out",
+      "url": "https://shop.palaceskateboards.com/products/gu3lsjiyp1e2",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES T-SHIRT PINKSold Out",
+      "url": "https://shop.palaceskateboards.com/products/4zd9c5he9a5c",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES T-SHIRT WHITE$68",
+      "url": "https://shop.palaceskateboards.com/products/njvvakxh5xbb",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES T-SHIRT CHESTNUTSold Out",
+      "url": "https://shop.palaceskateboards.com/products/ifysmmrydig2",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES T-SHIRT BLACKSold Out",
+      "url": "https://shop.palaceskateboards.com/products/3syf3hl13dd5",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE UGG LOONEY TUNES T-SHIRT GREY MARLSold Out",
+      "url": "https://shop.palaceskateboards.com/products/aw7rink042cc",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
       "name": "PALACE DORAEMON AVIREX JACKET YELLOW$1,898",
       "url": "https://shop.palaceskateboards.com/products/ilk00nkpeab6",
       "price": null,
@@ -588,7 +728,7 @@
       "score": 1.0
     },
     {
-      "name": "MOHAIR WOOL PUFFA JACKET PATCHWORK$1,198",
+      "name": "MOHAIR WOOL PUFFA JACKET PATCHWORKSold Out",
       "url": "https://shop.palaceskateboards.com/products/lanyj5p7nawz",
       "price": null,
       "currency": null,
@@ -616,8 +756,8 @@
       "score": 1.0
     },
     {
-      "name": "GORE-TEX WINDSTOPPER DOWN PARKA NAVY$708",
-      "url": "https://shop.palaceskateboards.com/products/p8tzn09qexk1",
+      "name": "GORE-TEX WINDSTOPPER DOWN PARKA BLACK$708",
+      "url": "https://shop.palaceskateboards.com/products/4us317py8wgv",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -630,15 +770,8 @@
       "score": 1.0
     },
     {
-      "name": "GORE-TEX WINDSTOPPER DOWN PARKA BLACK$708",
-      "url": "https://shop.palaceskateboards.com/products/4us317py8wgv",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GORE-TEX WINDSTOPPER P51 PARKA OLIVESold Out",
-      "url": "https://shop.palaceskateboards.com/products/278g271cjjuw",
+      "name": "GORE-TEX WINDSTOPPER DOWN PARKA NAVY$708",
+      "url": "https://shop.palaceskateboards.com/products/p8tzn09qexk1",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -646,139 +779,6 @@
     {
       "name": "GORE-TEX WINDSTOPPER P51 PARKA BLACK$428",
       "url": "https://shop.palaceskateboards.com/products/2jugi4iygy3j",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE BARBOUR FIELD CASUAL JACKET KELP FOREST CAMO$970",
-      "url": "https://shop.palaceskateboards.com/products/liwfw9hxprbz",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE BARBOUR FIELD CASUAL JACKET BLACK$930",
-      "url": "https://shop.palaceskateboards.com/products/14dqgc3ha8dc",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "NEED FOR P'S JACKET GREEN$428",
-      "url": "https://shop.palaceskateboards.com/products/7wztd7o1zy6a",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "NEED FOR P'S JACKET WHITESold Out",
-      "url": "https://shop.palaceskateboards.com/products/atv0fuf673up",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "NEED FOR P'S JACKET BLACK$428",
-      "url": "https://shop.palaceskateboards.com/products/4nuzt5pds58y",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "RIPSTOP PUFFA GREY$388",
-      "url": "https://shop.palaceskateboards.com/products/9m48kscjwypt",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "RIPSTOP PUFFA BLACK$388",
-      "url": "https://shop.palaceskateboards.com/products/ofnlqsztvyyo",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "RIPSTOP PUFFA LIME$388",
-      "url": "https://shop.palaceskateboards.com/products/y15uaxxz733k",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HOODED SHERP JACKET DISTRESSED LIGHT STONE WASH$388",
-      "url": "https://shop.palaceskateboards.com/products/niyy0hlrzv80",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HOODED SHERP JACKET BLACK STONE WASH$388",
-      "url": "https://shop.palaceskateboards.com/products/fg1iter5lnea",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HOODED SHERP JACKET REALTREE$388",
-      "url": "https://shop.palaceskateboards.com/products/0pj7fu33edcw",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PERTEX NETPLUS MICROLITE JACKET BLACK / CARBON$298",
-      "url": "https://shop.palaceskateboards.com/products/opjv375wfhpq",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PERTEX NETPLUS MICROLITE JACKET CLARET / GREYSold Out",
-      "url": "https://shop.palaceskateboards.com/products/gv8bf4dcc9h3",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PERTEX NETPLUS MICROLITE JACKET BLUE / ROYAL$298",
-      "url": "https://shop.palaceskateboards.com/products/5jz0jhws8tqu",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PERTEX QUANTUM PATCH JACKET BLACK$298",
-      "url": "https://shop.palaceskateboards.com/products/4wtilot5vqos",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PERTEX QUANTUM PATCH JACKET GREEN / BLACK$298",
-      "url": "https://shop.palaceskateboards.com/products/qzmtuodwawsx",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PERTEX QUANTUM PATCH JACKET MIXSold Out",
-      "url": "https://shop.palaceskateboards.com/products/sphtssq3gae3",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "P-TECH 2 JACKET CAMO$388",
-      "url": "https://shop.palaceskateboards.com/products/hhj7otwzyrxy",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "P-TECH 2 JACKET BLACK$388",
-      "url": "https://shop.palaceskateboards.com/products/iqyhlljkyln1",
       "price": null,
       "currency": null,
       "score": 1.0
