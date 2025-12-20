@@ -1,216 +1,5 @@
 {
-  "Corteiz": [
-    {
-      "name": "COLLAR BOLO DOWN JACKET [BLACK PLAID]",
-      "url": "https://crtz.xyz/products/mix-plaid-collar-bolo-jacket",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ELITEWORK™ WATERPROOF SHELL PANT [BLACK]",
-      "url": "https://crtz.xyz/products/elitework-waterproof-shell-pant-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ALCATRAZ BOMBER JACKET V2 [BLACK]",
-      "url": "https://crtz.xyz/products/alcatraz-bomber-jacket-v2",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND BAGGY JEANS [WASHED BLACK]",
-      "url": "https://crtz.xyz/products/alcatraz-baggy-jeans-washed-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GUERILLAZ FISHTAIL PARKA [BLACK CAMO]",
-      "url": "https://crtz.xyz/products/guerillaz-fishtail-parka-black-camo",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GUERILLAZ CONVERTIBLE PANT [BLACK CAMO]",
-      "url": "https://crtz.xyz/products/guerillaz-convertible-pant-black-camo",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "CREST CHAINSTITCH DENIM JACKET [WASHED BLACK]",
-      "url": "https://crtz.xyz/products/crest-chainstitch-denim-trucker-washed-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "CREST CHAINSTITCH BAGGY JEANS [WASHED BLACK]",
-      "url": "https://crtz.xyz/products/crest-chainstitch-denim-jeans-2",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GUERILLAZ PARKA LINER [TRIPLE BLACK]",
-      "url": "https://crtz.xyz/products/guerillaz-parka-liner-triple-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ALLSTARZ BAGGY JEANS [TRIPLE BLACK]",
-      "url": "https://crtz.xyz/products/allstarz-denim-baggy-jeans-triple-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "BIAS PANEL SHUKU JACKET [BLACK]",
-      "url": "https://crtz.xyz/products/bias-panel-shuku-jacket-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "BIAS PANEL SHUKU PANT [BLACK]",
-      "url": "https://crtz.xyz/products/bias-panel-shuku-pant-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP MILANO NYLON HOODIE [BLACK]",
-      "url": "https://crtz.xyz/products/hmp-milano-nylon-hoodie",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP MILANO NYLON TRACK PANT [BLACK]",
-      "url": "https://crtz.xyz/products/hmp-milano-nylon-track-pant",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "CREST ARCH TRACK JACKET [TRIPLE BLACK]",
-      "url": "https://crtz.xyz/products/crest-arch-track-jacket",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "CREST ARCH TRACK PANT [TRIPLE BLACK]",
-      "url": "https://crtz.xyz/products/crest-arch-track-pant-triple-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ARCH SHIELD ZIP HOODIE [BLACK]",
-      "url": "https://crtz.xyz/products/arch-shield-zip-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ARCH SHIELD OPEN HEM SWEATPANT [BLACK]",
-      "url": "https://crtz.xyz/products/arch-shield-open-hem-pant-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP STENCIL CREWNECK [BLACK OVERDYE]",
-      "url": "https://crtz.xyz/products/hmp-stencil-crewneck-black-overdye",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP STENCIL OPEN HEM SWEATPANT [BLACK OVERDYE]",
-      "url": "https://crtz.xyz/products/hmp-stencil-open-hem-pant-black-overdye",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND PUFF PRINT ZIP HOODIE [BLACK]",
-      "url": "https://crtz.xyz/products/island-puff-print-zip-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ALCATRAZ HOODIE [BLACK & WHITE]",
-      "url": "https://crtz.xyz/products/alcatraz-hoodie-v2-black-white",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LUNDUN STITCH ZIP HOODIE [TRIPLE BLACK]",
-      "url": "https://crtz.xyz/products/lundun-stitch-zip-hoodie-triple-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LUNDUN STITCH OPEN HEM SWEATPANT [TRIPLE BLACK]",
-      "url": "https://crtz.xyz/products/lundun-stitch-open-hem-sweatpant-triple-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP V2 SWEATSHIRT [BLACK]",
-      "url": "https://crtz.xyz/products/hmp-v2-sweatshirt-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP V2 SWEATPANT [BLACK]",
-      "url": "https://crtz.xyz/products/hmp-v2-sweatpant-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP THERMAL ZIP HOODIE [BLACK]",
-      "url": "https://crtz.xyz/products/hmp-thermal-zip-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP OPEN HEM SWEATPANT [BLACK]",
-      "url": "https://crtz.xyz/products/hmp-open-hem-pant-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ALCATRAZ HEAVY KNIT ZIP HOODIE [BLACK]",
-      "url": "https://crtz.xyz/products/alcatraz-heavy-knit-zip-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "3M COLLEGE KNIT ZIP HOODIE [BLACK]",
-      "url": "https://crtz.xyz/products/3m-college-knit-zip-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    }
-  ],
+  "Corteiz": [],
   "Represent": [
     {
       "name": "Gift Card",
@@ -234,15 +23,22 @@
       "score": 1.0
     },
     {
-      "name": "XSSMLXL XXSXXL 247 DNA Graphic T-Shirt jet black 2 Colors MSRP $ $90 $90",
+      "name": "SMLXL XXSXSXXL 247 DNA Graphic T-Shirt jet black 2 Colors MSRP $ $90 $90",
       "url": "https://representclo.com/products/247-dna-graphic-t-shirt-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "S XXSXSMLXLXXL 247 On A Mission Long Sleeve T-Shirt jet black MSRP $ $110 $110",
-      "url": "https://representclo.com/products/247-on-a-mission-long-sleeve-t-shirt-jet-black",
+      "name": "XSSMLXL XXSXXL 247 DNA Graphic Hoodie jet black MSRP $ $165 $165",
+      "url": "https://representclo.com/products/247-dna-graphic-hoodie-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XSSMLXL XXSXXL Team 247 Oversized Hoodie jet black 4 Colors MSRP $ $165 $165",
+      "url": "https://representclo.com/products/team-247-oversized-hoodie-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -262,7 +58,7 @@
       "score": 1.0
     },
     {
-      "name": "SMXXL XXSXSLXL EngLAnd Hoodie washed brown 2 Colors MSRP $ $220 $220",
+      "name": "MXXL XXSXSSLXL EngLAnd Hoodie washed brown 2 Colors MSRP $ $220 $220",
       "url": "https://representclo.com/products/england-hoodie-washed-brown",
       "price": null,
       "currency": null,
@@ -278,13 +74,6 @@
     {
       "name": "XSSLXL XXSMXXL Archangel T-Shirt stained black MSRP $ $140 $140",
       "url": "https://representclo.com/products/archangel-t-shirt-stained-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XS XXSSMLXLXXL 247 Realtree® Long Sleeve Mesh T-Shirt camo MSRP $ $120 $120",
-      "url": "https://representclo.com/products/247-realtree-long-sleeve-mesh-t-shirt-camo",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -311,8 +100,15 @@
       "score": 1.0
     },
     {
-      "name": "247 On A Mission Long Sleeve T-Shirt",
-      "url": "https://representclo.com/products/247-on-a-mission-long-sleeve-t-shirt-jet-black",
+      "name": "247 DNA Graphic Hoodie",
+      "url": "https://representclo.com/products/247-dna-graphic-hoodie-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Team 247 Oversized Hoodie",
+      "url": "https://representclo.com/products/team-247-oversized-hoodie-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -348,13 +144,6 @@
     {
       "name": "Archangel T-Shirt",
       "url": "https://representclo.com/products/archangel-t-shirt-stained-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "247 Realtree® Long Sleeve Mesh T-Shirt",
-      "url": "https://representclo.com/products/247-realtree-long-sleeve-mesh-t-shirt-camo",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -623,27 +412,6 @@
   ],
   "Palace": [
     {
-      "name": "PALACE NIKE AIR MAX DN8 DUSTY GREY / SAFETY ORANGE$220",
-      "url": "https://shop.palaceskateboards.com/products/5lnx4i9h01e1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE AIR MAX DN8 BLACK / SAFETY ORANGE$220",
-      "url": "https://shop.palaceskateboards.com/products/torgdt1dvxh9",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE AIR MAX DN8 SAFETY ORANGE / PARTICLE GREY$220",
-      "url": "https://shop.palaceskateboards.com/products/b5zk9o9gzoxt",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "PALACE DORAEMON AVIREX JACKET BLACKSold Out",
       "url": "https://shop.palaceskateboards.com/products/rgvohgk1m13q",
       "price": null,
@@ -693,8 +461,8 @@
       "score": 1.0
     },
     {
-      "name": "GORE-TEX WINDSTOPPER DOWN PARKA BLACK$708",
-      "url": "https://shop.palaceskateboards.com/products/4us317py8wgv",
+      "name": "GORE-TEX WINDSTOPPER DOWN PARKA NAVY$708",
+      "url": "https://shop.palaceskateboards.com/products/p8tzn09qexk1",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -707,15 +475,8 @@
       "score": 1.0
     },
     {
-      "name": "GORE-TEX WINDSTOPPER DOWN PARKA NAVY$708",
-      "url": "https://shop.palaceskateboards.com/products/p8tzn09qexk1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GORE-TEX WINDSTOPPER P51 PARKA BLACK$428",
-      "url": "https://shop.palaceskateboards.com/products/2jugi4iygy3j",
+      "name": "GORE-TEX WINDSTOPPER DOWN PARKA BLACK$708",
+      "url": "https://shop.palaceskateboards.com/products/4us317py8wgv",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -723,6 +484,13 @@
     {
       "name": "GORE-TEX WINDSTOPPER P51 PARKA OLIVESold Out",
       "url": "https://shop.palaceskateboards.com/products/278g271cjjuw",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GORE-TEX WINDSTOPPER P51 PARKA BLACK$428",
+      "url": "https://shop.palaceskateboards.com/products/2jugi4iygy3j",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -749,15 +517,15 @@
       "score": 1.0
     },
     {
-      "name": "NEED FOR P'S JACKET GREEN$428",
-      "url": "https://shop.palaceskateboards.com/products/7wztd7o1zy6a",
+      "name": "NEED FOR P'S JACKET WHITE$428",
+      "url": "https://shop.palaceskateboards.com/products/atv0fuf673up",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "NEED FOR P'S JACKET WHITE$428",
-      "url": "https://shop.palaceskateboards.com/products/atv0fuf673up",
+      "name": "NEED FOR P'S JACKET GREEN$428",
+      "url": "https://shop.palaceskateboards.com/products/7wztd7o1zy6a",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -791,13 +559,6 @@
       "score": 1.0
     },
     {
-      "name": "RIPSTOP PUFFA GREY$388",
-      "url": "https://shop.palaceskateboards.com/products/9m48kscjwypt",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "RIPSTOP PUFFA BLACK$388",
       "url": "https://shop.palaceskateboards.com/products/ofnlqsztvyyo",
       "price": null,
@@ -805,8 +566,29 @@
       "score": 1.0
     },
     {
-      "name": "HOODED SHERP JACKET DISTRESSED LIGHT STONE WASHSold Out",
-      "url": "https://shop.palaceskateboards.com/products/niyy0hlrzv80",
+      "name": "RIPSTOP PUFFA GREY$388",
+      "url": "https://shop.palaceskateboards.com/products/9m48kscjwypt",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GORE-TEX WINDSTOPPER ILLUMINATOR JACKET CHEETAHSold Out",
+      "url": "https://shop.palaceskateboards.com/products/mwiwczt40f6i",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GORE-TEX WINDSTOPPER ILLUMINATOR JACKET BLACKSold Out",
+      "url": "https://shop.palaceskateboards.com/products/ex9rk777k1gg",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GORE-TEX WINDSTOPPER ILLUMINATOR JACKET CLOUDSold Out",
+      "url": "https://shop.palaceskateboards.com/products/cxltqwrsmyxo",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -819,6 +601,13 @@
       "score": 1.0
     },
     {
+      "name": "HOODED SHERP JACKET DISTRESSED LIGHT STONE WASHSold Out",
+      "url": "https://shop.palaceskateboards.com/products/niyy0hlrzv80",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
       "name": "HOODED SHERP JACKET REALTREESold Out",
       "url": "https://shop.palaceskateboards.com/products/0pj7fu33edcw",
       "price": null,
@@ -826,8 +615,8 @@
       "score": 1.0
     },
     {
-      "name": "SHERPA FAUX SUEDE HOODED JACKET BLACKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/akkb4vw6idng",
+      "name": "SHERPA FAUX SUEDE HOODED JACKET WHITESold Out",
+      "url": "https://shop.palaceskateboards.com/products/rhie0w9q1q4y",
       "price": null,
       "currency": null,
       "score": 1.0
