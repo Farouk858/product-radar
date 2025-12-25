@@ -2,13 +2,6 @@
   "Corteiz": [],
   "Represent": [
     {
-      "name": "SHOP REPRESENT GIFT CARDS",
-      "url": "https://representclo.com/products/gift-card ",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "Gift Card",
       "url": "https://representclo.com/products/gift-card",
       "price": null,
@@ -23,15 +16,8 @@
       "score": 1.0
     },
     {
-      "name": "XXSXSSMLXXL XL Represent Owners Club Hoodie cobalt 10 Colors MSRP $ $200 $200",
+      "name": "XXSXSSMLXLXXL Represent Owners Club Hoodie cobalt 10 Colors MSRP $ $200 $200",
       "url": "https://representclo.com/products/represent-owners-club-hoodie-cobalt",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XSSMLXL XXSXXL Team 247 Oversized Hoodie jet black 4 Colors MSRP $ $165 $165",
-      "url": "https://representclo.com/products/team-247-oversized-hoodie-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -39,6 +25,13 @@
     {
       "name": "XSSMLXL XXSXXL 247 DNA Graphic Hoodie jet black MSRP $ $165 $165",
       "url": "https://representclo.com/products/247-dna-graphic-hoodie-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XSSMLXL XXSXXL Team 247 Oversized Hoodie jet black 4 Colors MSRP $ $165 $165",
+      "url": "https://representclo.com/products/team-247-oversized-hoodie-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -53,6 +46,13 @@
     {
       "name": "SMLXL XXSXSXXL Team 247 Oversized Tank jet black 4 Colors MSRP $ $85 $85",
       "url": "https://representclo.com/products/team-247-oversized-tank-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XSSMLXLXXL XXS Team 247 Oversized T-Shirt jet black 6 Colors MSRP $ $90 $90",
+      "url": "https://representclo.com/products/team-247-oversized-t-shirt-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -79,13 +79,6 @@
       "score": 1.0
     },
     {
-      "name": "LXL XXSXSSMXXL Represent Owners Club Hoodie black matte 10 Colors MSRP $ $200 $200",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-black-matte",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "Represent Owners Club Hoodie",
       "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
       "price": null,
@@ -100,15 +93,15 @@
       "score": 1.0
     },
     {
-      "name": "Team 247 Oversized Hoodie",
-      "url": "https://representclo.com/products/team-247-oversized-hoodie-jet-black",
+      "name": "247 DNA Graphic Hoodie",
+      "url": "https://representclo.com/products/247-dna-graphic-hoodie-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "247 DNA Graphic Hoodie",
-      "url": "https://representclo.com/products/247-dna-graphic-hoodie-jet-black",
+      "name": "Team 247 Oversized Hoodie",
+      "url": "https://representclo.com/products/team-247-oversized-hoodie-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -123,6 +116,13 @@
     {
       "name": "Team 247 Oversized Tank",
       "url": "https://representclo.com/products/team-247-oversized-tank-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Team 247 Oversized T-Shirt",
+      "url": "https://representclo.com/products/team-247-oversized-t-shirt-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -144,13 +144,6 @@
     {
       "name": "EngLAnd Hoodie",
       "url": "https://representclo.com/products/england-hoodie-washed-brown",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Represent Owners Club Hoodie",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-black-matte",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -207,6 +200,13 @@
     {
       "name": "Bully",
       "url": "https://representclo.com/collections/bully-sneaker",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Apex",
+      "url": "https://representclo.com/collections/apex-collection",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -475,7 +475,7 @@
       "score": 1.0
     },
     {
-      "name": "GORE-TEX WINDSTOPPER DOWN PARKA BLACK$708",
+      "name": "GORE-TEX WINDSTOPPER DOWN PARKA BLACKSold Out",
       "url": "https://shop.palaceskateboards.com/products/4us317py8wgv",
       "price": null,
       "currency": null,
@@ -531,7 +531,7 @@
       "score": 1.0
     },
     {
-      "name": "PERFORMANCE PUFFA NAVY$388",
+      "name": "PERFORMANCE PUFFA NAVYSold Out",
       "url": "https://shop.palaceskateboards.com/products/uxw5gm68np86",
       "price": null,
       "currency": null,
