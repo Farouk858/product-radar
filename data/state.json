@@ -1,5 +1,216 @@
 {
-  "Corteiz": [],
+  "Corteiz": [
+    {
+      "name": "CORTEARS ROYALE ZIP HOODIE [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/cortears-zip-hoodie-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "CORTEARS ROYALE OPEN HEM SWEATPANT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/cortears-open-hem-sweatpant-heather-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "CORTEARS OG ALCATRAZ TEE [BLACK]",
+      "url": "https://crtz.xyz/products/cortears-tee-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "CORTEARS OG ALCATRAZ TEE [WHITE]",
+      "url": "https://crtz.xyz/products/cortears-tee-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND WREATH ZIP HOODIE [RED]",
+      "url": "https://crtz.xyz/products/island-wreath-zip-hoodie-red",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND WREATH SWEATPANT [RED]",
+      "url": "https://crtz.xyz/products/island-wreath-sweatpant-red",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND WREATH ZIP HOODIE [GREEN]",
+      "url": "https://crtz.xyz/products/island-wreath-zip-hoodie-green",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND WREATH SWEATPANT [GREEN]",
+      "url": "https://crtz.xyz/products/island-wreath-sweatpant-green",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND WREATH ZIP HOODIE [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/island-wreath-zip-hoodie-heathergrey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND WREATH SWEATPANT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/island-wreath-sweatpant-heathergrey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND WREATH ZIP HOODIE [BLACK]",
+      "url": "https://crtz.xyz/products/island-wreath-zip-hoodie-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND WREATH SWEATPANT [BLACK]",
+      "url": "https://crtz.xyz/products/island-wreath-sweatpant-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND WREATH WAFFLE THERMAL [CREAM]",
+      "url": "https://crtz.xyz/products/dt-island-wreath-thermal-cream",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND WREATH WAFFLE THERMAL [BLACK]",
+      "url": "https://crtz.xyz/products/dt-island-wreath-thermal-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "DT LUXE DENIM JACKET [VINTAGE INDIGO]",
+      "url": "https://crtz.xyz/products/dt-luxe-denim-trucker",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "DT LUXE BAGGY JEANS [VINTAGE INDIGO]",
+      "url": "https://crtz.xyz/products/dt-luxe-denim-jeans",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "CORTEARS PANTHER VARSITY JACKET [BLACK]",
+      "url": "https://crtz.xyz/products/cortears-varsity",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP QUILTED LINER JACKET [BLACK]",
+      "url": "https://crtz.xyz/products/hmp-quilted-liner-jacket-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ELITEWORK™ AVALANCHE BOLO PARKA [ARCTIC CAMO]",
+      "url": "https://crtz.xyz/products/avalanche-bolo-b-i-g-parka",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ELITEWORK™ AVALANCHE SHELL PANT [ARCTIC CAMO]",
+      "url": "https://crtz.xyz/products/avalanche-elitework-shell-pant-v2",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ELITEWORK™ AVALANCHE BOLO PARKA [BLACK]",
+      "url": "https://crtz.xyz/products/avalanche-bolo-b-i-g-parka-1",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ELITEWORK™ AVALANCHE SHELL PANT [BLACK]",
+      "url": "https://crtz.xyz/products/avalanche-elitework-shell-pant-v2-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MULTI STRIPE KNIT ZIP UP [BROWN]",
+      "url": "https://crtz.xyz/products/ribbed-raglan-piped-zip-up-brown",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MULTI STRIPE KNIT BEANIE [BROWN]",
+      "url": "https://crtz.xyz/products/ribbed-multi-stripe-beanie-brown",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP THERMAL ZIP HOODIE [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/hmp-thermal-zip-hoodie-heather-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP OPEN HEM SWEATPANT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/hmp-open-hem-pant-heather-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND PUFF PRINT ZIP HOODIE [BLACK]",
+      "url": "https://crtz.xyz/products/island-puff-print-zip-hoodie-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND PUFF PRINT OPEN HEM SWEATPANT [BLACK]",
+      "url": "https://crtz.xyz/products/island-puff-print-open-hem-pant-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP V2 SWEATSHIRT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/hmp-v2-sweatshirt-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP V2 SWEATPANT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/hmp-v2-sweatpant-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    }
+  ],
   "Represent": [
     {
       "name": "Gift Card",
@@ -16,14 +227,7 @@
       "score": 1.0
     },
     {
-      "name": "XXSXSSMLXLXXL Represent Owners Club Hoodie cobalt 10 Colors MSRP $ $200 $200",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-cobalt",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XSSMLXL XXSXXL 247 DNA Graphic Hoodie jet black MSRP $ $165 $165",
+      "name": "XSSML XXSXLXXL 247 DNA Graphic Hoodie jet black MSRP $ $165 $165",
       "url": "https://representclo.com/products/247-dna-graphic-hoodie-jet-black",
       "price": null,
       "currency": null,
@@ -81,13 +285,6 @@
     {
       "name": "Represent Owners Club Hoodie",
       "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Represent Owners Club Hoodie",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-cobalt",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -207,6 +404,20 @@
     {
       "name": "Apex",
       "url": "https://representclo.com/collections/apex-collection",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Reptor",
+      "url": "https://representclo.com/collections/reptor-low-collection",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Mules",
+      "url": "https://representclo.com/collections/sandals",
       "price": null,
       "currency": null,
       "score": 1.0
