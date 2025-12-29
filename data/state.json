@@ -29,15 +29,15 @@
       "score": 1.0
     },
     {
-      "name": "CORTEARS OG ALCATRAZ TEE [BLACK]",
-      "url": "https://crtz.xyz/products/cortears-tee-black",
+      "name": "HMP QUILTED LINER JACKET [BLACK]",
+      "url": "https://crtz.xyz/products/hmp-quilted-liner-jacket-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "CORTEARS OG ALCATRAZ TEE [WHITE]",
-      "url": "https://crtz.xyz/products/cortears-tee-white",
+      "name": "MULTI STRIPE KNIT ZIP UP [BROWN]",
+      "url": "https://crtz.xyz/products/ribbed-raglan-piped-zip-up-brown",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -169,22 +169,8 @@
       "score": 1.0
     },
     {
-      "name": "MULTI STRIPE KNIT ZIP UP [BROWN]",
-      "url": "https://crtz.xyz/products/ribbed-raglan-piped-zip-up-brown",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "MULTI STRIPE KNIT BEANIE [BROWN]",
       "url": "https://crtz.xyz/products/ribbed-multi-stripe-beanie-brown",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP QUILTED LINER JACKET [BLACK]",
-      "url": "https://crtz.xyz/products/hmp-quilted-liner-jacket-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -209,6 +195,20 @@
       "price": null,
       "currency": null,
       "score": 1.0
+    },
+    {
+      "name": "CORTEARS OG ALCATRAZ TEE [BLACK]",
+      "url": "https://crtz.xyz/products/cortears-tee-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "CORTEARS OG ALCATRAZ TEE [WHITE]",
+      "url": "https://crtz.xyz/products/cortears-tee-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
     }
   ],
   "Represent": [
@@ -227,7 +227,7 @@
       "score": 1.0
     },
     {
-      "name": "XSSML XXSXLXXL Icarus T-Shirt jet black 4 Colors MSRP $140 $53 $53",
+      "name": "XSSM XXSLXLXXL Icarus T-Shirt jet black 4 Colors MSRP $140 $53 $53",
       "url": "https://representclo.com/products/icarus-t-shirt-jet-black",
       "price": null,
       "currency": null,
@@ -269,13 +269,6 @@
       "score": 1.0
     },
     {
-      "name": "MXL XSSLXXL Team 247 Oversized T-Shirt flat white 6 Colors MSRP $100 $52 $52",
-      "url": "https://representclo.com/products/team-247-oversized-t-shirt-flat-white-bf",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "XSSMLXLXXL XXS Hermes T-Shirt flat white 3 Colors MSRP $140 $63 $63",
       "url": "https://representclo.com/products/hermes-t-shirt-flat-white",
       "price": null,
@@ -283,7 +276,14 @@
       "score": 1.0
     },
     {
-      "name": "XSSMXL XXSLXXL Raceway T-Shirt jet black 3 Colors MSRP $155 $78 $78",
+      "name": "MXL XSSLXXL Team 247 Oversized T-Shirt flat white 6 Colors MSRP $100 $52 $52",
+      "url": "https://representclo.com/products/team-247-oversized-t-shirt-flat-white-bf",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XSSM XXSLXLXXL Raceway T-Shirt jet black 3 Colors MSRP $155 $78 $78",
       "url": "https://representclo.com/products/raceway-t-shirt-jet-black",
       "price": null,
       "currency": null,
@@ -339,15 +339,15 @@
       "score": 1.0
     },
     {
-      "name": "Team 247 Oversized T-Shirt",
-      "url": "https://representclo.com/products/team-247-oversized-t-shirt-flat-white-bf",
+      "name": "Hermes T-Shirt",
+      "url": "https://representclo.com/products/hermes-t-shirt-flat-white",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "Hermes T-Shirt",
-      "url": "https://representclo.com/products/hermes-t-shirt-flat-white",
+      "name": "Team 247 Oversized T-Shirt",
+      "url": "https://representclo.com/products/team-247-oversized-t-shirt-flat-white-bf",
       "price": null,
       "currency": null,
       "score": 1.0
