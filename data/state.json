@@ -23,15 +23,15 @@
       "score": 1.0
     },
     {
-      "name": "XSS XXSMLXLXXL Icarus T-Shirt jet black 4 Colors MSRP $140 $53 $53",
-      "url": "https://representclo.com/products/icarus-t-shirt-jet-black",
+      "name": "SM XSLXLXXL 247 Motion Oversized T-Shirt aged black 4 Colors MSRP $105 $42 $42",
+      "url": "https://representclo.com/products/247-motion-oversized-t-shirt-aged-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "SM XSLXLXXL 247 Motion Oversized T-Shirt aged black 4 Colors MSRP $105 $42 $42",
-      "url": "https://representclo.com/products/247-motion-oversized-t-shirt-aged-black",
+      "name": "XSSXXL XXSMLXL Icarus T-Shirt jet black 4 Colors MSRP $140 $53 $53",
+      "url": "https://representclo.com/products/icarus-t-shirt-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -44,20 +44,6 @@
       "score": 1.0
     },
     {
-      "name": "M XSSLXLXXL Team 247 Oversized T-Shirt black 6 Colors MSRP $100 $62 $62",
-      "url": "https://representclo.com/products/team-247-oversized-t-shirt-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ML XXSXSSXLXXL Keys To The Club T-Shirt jet black 2 Colors MSRP $140 $70 $70",
-      "url": "https://representclo.com/products/keys-to-the-club-t-shirt-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "XSSMLXLXXL XXS Revere Manor T-Shirt stained black 2 Colors MSRP $140 $53 $53",
       "url": "https://representclo.com/products/revere-manor-t-shirt-stained-black",
       "price": null,
@@ -65,15 +51,29 @@
       "score": 1.0
     },
     {
-      "name": "XSS XXSMLXLXXL Classic Parts T-Shirt flat white 2 Colors MSRP $155 $54 $54",
-      "url": "https://representclo.com/products/classic-parts-t-shirt-flat-white",
+      "name": "M XSSLXLXXL Team 247 Oversized T-Shirt black 6 Colors MSRP $100 $62 $62",
+      "url": "https://representclo.com/products/team-247-oversized-t-shirt-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "XSSM LXLXXL 247 Motion Oversized Tank aged black 6 Colors MSRP $100 $48 $48",
-      "url": "https://representclo.com/products/247-motion-oversized-tank-aged-black",
+      "name": "SML XXSXSXLXXL Keys To The Club T-Shirt jet black 2 Colors MSRP $140 $70 $70",
+      "url": "https://representclo.com/products/keys-to-the-club-t-shirt-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XSSMLXLXXL XXS Represent Owners Club Hoodie black 10 Colors MSRP $ $200 $200",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "SM XSLXLXXL Team 247 Oversized T-Shirt flat white 6 Colors MSRP $100 $52 $52",
+      "url": "https://representclo.com/products/team-247-oversized-t-shirt-flat-white-bf",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -93,13 +93,6 @@
       "score": 1.0
     },
     {
-      "name": "Icarus T-Shirt",
-      "url": "https://representclo.com/products/icarus-t-shirt-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "247 Motion Oversized T-Shirt",
       "url": "https://representclo.com/products/247-motion-oversized-t-shirt-aged-black",
       "price": null,
@@ -108,7 +101,21 @@
     },
     {
       "name": "Icarus T-Shirt",
+      "url": "https://representclo.com/products/icarus-t-shirt-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Icarus T-Shirt",
       "url": "https://representclo.com/products/icarus-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Revere Manor T-Shirt",
+      "url": "https://representclo.com/products/revere-manor-t-shirt-stained-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -128,22 +135,15 @@
       "score": 1.0
     },
     {
-      "name": "Revere Manor T-Shirt",
-      "url": "https://representclo.com/products/revere-manor-t-shirt-stained-black",
+      "name": "Represent Owners Club Hoodie",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "Classic Parts T-Shirt",
-      "url": "https://representclo.com/products/classic-parts-t-shirt-flat-white",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "247 Motion Oversized Tank",
-      "url": "https://representclo.com/products/247-motion-oversized-tank-aged-black",
+      "name": "Team 247 Oversized T-Shirt",
+      "url": "https://representclo.com/products/team-247-oversized-t-shirt-flat-white-bf",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -489,14 +489,14 @@
       "score": 1.0
     },
     {
-      "name": "GORE-TEX WINDSTOPPER ILLUMINATOR JACKET CLOUDSold Out",
+      "name": "GORE-TEX WINDSTOPPER ILLUMINATOR JACKET CLOUD$428",
       "url": "https://shop.palaceskateboards.com/products/cxltqwrsmyxo",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "HOODED SHERP JACKET BLACK STONE WASHSold Out",
+      "name": "HOODED SHERP JACKET BLACK STONE WASH$388",
       "url": "https://shop.palaceskateboards.com/products/fg1iter5lnea",
       "price": null,
       "currency": null,
