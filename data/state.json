@@ -9,20 +9,6 @@
       "score": 4.0
     },
     {
-      "name": "XSS XXSMLXLXXL Elegance In Motion T-Shirt jet black 3 Colors MSRP $140 $56 $56",
-      "url": "https://representclo.com/products/elegance-in-motion-t-shirt-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XSSMXLXXL XXSL Hermes T-Shirt flat white 3 Colors MSRP $140 $63 $63",
-      "url": "https://representclo.com/products/hermes-t-shirt-flat-white",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "SM XSLXLXXL 247 Motion Oversized T-Shirt aged black 4 Colors MSRP $105 $42 $42",
       "url": "https://representclo.com/products/247-motion-oversized-t-shirt-aged-black",
       "price": null,
@@ -30,15 +16,22 @@
       "score": 1.0
     },
     {
-      "name": "XSSXXL XXSMLXL Icarus T-Shirt jet black 4 Colors MSRP $140 $53 $53",
-      "url": "https://representclo.com/products/icarus-t-shirt-jet-black",
+      "name": "XSS XXSMLXLXXL Elegance In Motion T-Shirt jet black 3 Colors MSRP $140 $56 $56",
+      "url": "https://representclo.com/products/elegance-in-motion-t-shirt-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "XSS XXSMLXLXXL Icarus T-Shirt flat white 4 Colors MSRP $140 $53 $53",
-      "url": "https://representclo.com/products/icarus-t-shirt-flat-white",
+      "name": "XSXLXXL XXSSML Hermes T-Shirt flat white 3 Colors MSRP $140 $63 $63",
+      "url": "https://representclo.com/products/hermes-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XSS XXSMLXLXXL Icarus T-Shirt jet black 4 Colors MSRP $140 $53 $53",
+      "url": "https://representclo.com/products/icarus-t-shirt-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -51,15 +44,22 @@
       "score": 1.0
     },
     {
-      "name": "M XSSLXLXXL Team 247 Oversized T-Shirt black 6 Colors MSRP $100 $62 $62",
-      "url": "https://representclo.com/products/team-247-oversized-t-shirt-black",
+      "name": "XSS XXSMLXLXXL Icarus T-Shirt flat white 4 Colors MSRP $140 $53 $53",
+      "url": "https://representclo.com/products/icarus-t-shirt-flat-white",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "SML XXSXSXLXXL Keys To The Club T-Shirt jet black 2 Colors MSRP $140 $70 $70",
+      "name": "SL XXSXSMXLXXL Keys To The Club T-Shirt jet black 2 Colors MSRP $140 $70 $70",
       "url": "https://representclo.com/products/keys-to-the-club-t-shirt-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "M XSSLXLXXL Team 247 Oversized T-Shirt black 6 Colors MSRP $100 $62 $62",
+      "url": "https://representclo.com/products/team-247-oversized-t-shirt-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -79,6 +79,13 @@
       "score": 1.0
     },
     {
+      "name": "247 Motion Oversized T-Shirt",
+      "url": "https://representclo.com/products/247-motion-oversized-t-shirt-aged-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
       "name": "Elegance In Motion T-Shirt",
       "url": "https://representclo.com/products/elegance-in-motion-t-shirt-jet-black",
       "price": null,
@@ -93,22 +100,8 @@
       "score": 1.0
     },
     {
-      "name": "247 Motion Oversized T-Shirt",
-      "url": "https://representclo.com/products/247-motion-oversized-t-shirt-aged-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "Icarus T-Shirt",
       "url": "https://representclo.com/products/icarus-t-shirt-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Icarus T-Shirt",
-      "url": "https://representclo.com/products/icarus-t-shirt-flat-white",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -121,8 +114,8 @@
       "score": 1.0
     },
     {
-      "name": "Team 247 Oversized T-Shirt",
-      "url": "https://representclo.com/products/team-247-oversized-t-shirt-black",
+      "name": "Icarus T-Shirt",
+      "url": "https://representclo.com/products/icarus-t-shirt-flat-white",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -130,6 +123,13 @@
     {
       "name": "Keys To The Club T-Shirt",
       "url": "https://representclo.com/products/keys-to-the-club-t-shirt-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Team 247 Oversized T-Shirt",
+      "url": "https://representclo.com/products/team-247-oversized-t-shirt-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -335,7 +335,7 @@
       "score": 1.0
     },
     {
-      "name": "SUSANOO LEATHER FLIGHT JACKET BROWN$1,198",
+      "name": "SUSANOO LEATHER FLIGHT JACKET BROWNSold Out",
       "url": "https://shop.palaceskateboards.com/products/k9pid313yb6d",
       "price": null,
       "currency": null,
@@ -489,7 +489,7 @@
       "score": 1.0
     },
     {
-      "name": "GORE-TEX WINDSTOPPER ILLUMINATOR JACKET CLOUD$428",
+      "name": "GORE-TEX WINDSTOPPER ILLUMINATOR JACKET CLOUDSold Out",
       "url": "https://shop.palaceskateboards.com/products/cxltqwrsmyxo",
       "price": null,
       "currency": null,
