@@ -30,13 +30,6 @@
       "score": 1.0
     },
     {
-      "name": "XXSXSS MLXLXXL Represent Owners Club T-Shirt storm 9 Colors MSRP $ $110 $110",
-      "url": "https://representclo.com/products/represent-owners-club-t-shirt-storm",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "XXSXSS MLXLXXL Represent Owners Club Hoodie cobalt 7 Colors MSRP $ $200 $200",
       "url": "https://representclo.com/products/represent-owners-club-hoodie-cobalt",
       "price": null,
@@ -46,6 +39,13 @@
     {
       "name": "XSSML XXSXLXXL Grand Vintage Hand Drawn T-Shirt jet black 2 Colors MSRP $ $130 $130",
       "url": "https://representclo.com/products/grand-vintage-hand-drawn-t-shirt-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXSXSS MLXLXXL Represent Owners Club T-Shirt storm 9 Colors MSRP $ $110 $110",
+      "url": "https://representclo.com/products/represent-owners-club-t-shirt-storm",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -65,15 +65,15 @@
       "score": 1.0
     },
     {
-      "name": "XSSMLXLXXL XXS Represent Owners Club Hoodie black 7 Colors MSRP $ $200 $200",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
+      "name": "XXSXSSML XLXXL Represent Owners Club Hoodie vista blue 7 Colors MSRP $ $200 $200",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-vista-blue",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "XXSXSSML XLXXL Represent Owners Club Hoodie vista blue 7 Colors MSRP $ $200 $200",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-vista-blue",
+      "name": "XSSMLXLXXL XXS Represent Owners Club Hoodie black 7 Colors MSRP $ $200 $200",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -100,13 +100,6 @@
       "score": 1.0
     },
     {
-      "name": "Represent Owners Club T-Shirt",
-      "url": "https://representclo.com/products/represent-owners-club-t-shirt-storm",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "Represent Owners Club Hoodie",
       "url": "https://representclo.com/products/represent-owners-club-hoodie-cobalt",
       "price": null,
@@ -116,6 +109,13 @@
     {
       "name": "Grand Vintage Hand Drawn T-Shirt",
       "url": "https://representclo.com/products/grand-vintage-hand-drawn-t-shirt-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Represent Owners Club T-Shirt",
+      "url": "https://representclo.com/products/represent-owners-club-t-shirt-storm",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -136,14 +136,14 @@
     },
     {
       "name": "Represent Owners Club Hoodie",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-vista-blue",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "Represent Owners Club Hoodie",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-vista-blue",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -213,218 +213,7 @@
     }
   ],
   "Supreme": [],
-  "Palace": [
-    {
-      "name": "PALACE DORAEMON AVIREX JACKET BLACKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/rgvohgk1m13q",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE DORAEMON AVIREX JACKET YELLOWSold Out",
-      "url": "https://shop.palaceskateboards.com/products/ilk00nkpeab6",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MOHAIR WOOL PUFFA JACKET PATCHWORKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/lanyj5p7nawz",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SUSANOO LEATHER FLIGHT JACKET BROWNSold Out",
-      "url": "https://shop.palaceskateboards.com/products/k9pid313yb6d",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "APPLIQUE CAMO JACKET WOODLAND CAMO$1,198",
-      "url": "https://shop.palaceskateboards.com/products/a7ozlg6n3ovd",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE UGG LOONEY TUNES VARSITY JACKET BLACK$688",
-      "url": "https://shop.palaceskateboards.com/products/2vjrlrxdm4fg",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MARK BODĒ VARSITY JACKET BLACK$688",
-      "url": "https://shop.palaceskateboards.com/products/a8bpxy961d84",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GORE-TEX WINDSTOPPER DOWN PARKA NAVY$708",
-      "url": "https://shop.palaceskateboards.com/products/p8tzn09qexk1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GORE-TEX WINDSTOPPER DOWN PARKA FLECKTARN CAMO$708",
-      "url": "https://shop.palaceskateboards.com/products/m4ghiz72bzcn",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GORE-TEX WINDSTOPPER DOWN PARKA BLACK$708",
-      "url": "https://shop.palaceskateboards.com/products/4us317py8wgv",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GORE-TEX WINDSTOPPER P51 PARKA OLIVESold Out",
-      "url": "https://shop.palaceskateboards.com/products/278g271cjjuw",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GORE-TEX WINDSTOPPER P51 PARKA BLACK$428",
-      "url": "https://shop.palaceskateboards.com/products/2jugi4iygy3j",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE BARBOUR FIELD CASUAL JACKET BLACK$930",
-      "url": "https://shop.palaceskateboards.com/products/14dqgc3ha8dc",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE BARBOUR FIELD CASUAL JACKET KELP FOREST CAMO$970",
-      "url": "https://shop.palaceskateboards.com/products/liwfw9hxprbz",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "NEED FOR P'S JACKET BLACK$428",
-      "url": "https://shop.palaceskateboards.com/products/4nuzt5pds58y",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "NEED FOR P'S JACKET WHITE$428",
-      "url": "https://shop.palaceskateboards.com/products/atv0fuf673up",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "NEED FOR P'S JACKET GREEN$428",
-      "url": "https://shop.palaceskateboards.com/products/7wztd7o1zy6a",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PERFORMANCE PUFFA NAVYSold Out",
-      "url": "https://shop.palaceskateboards.com/products/uxw5gm68np86",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PERFORMANCE PUFFA GREYSold Out",
-      "url": "https://shop.palaceskateboards.com/products/sm103w4zdf11",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PERFORMANCE PUFFA BLACKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/mcbxy35syv19",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "RIPSTOP PUFFA LIME$388",
-      "url": "https://shop.palaceskateboards.com/products/y15uaxxz733k",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "RIPSTOP PUFFA BLACKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/ofnlqsztvyyo",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "RIPSTOP PUFFA GREY$388",
-      "url": "https://shop.palaceskateboards.com/products/9m48kscjwypt",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HOODED SHERP JACKET BLACK STONE WASHSold Out",
-      "url": "https://shop.palaceskateboards.com/products/fg1iter5lnea",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HOODED SHERP JACKET DISTRESSED LIGHT STONE WASHSold Out",
-      "url": "https://shop.palaceskateboards.com/products/niyy0hlrzv80",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HOODED SHERP JACKET REALTREE$388",
-      "url": "https://shop.palaceskateboards.com/products/0pj7fu33edcw",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SHERPA FAUX SUEDE HOODED JACKET WHITESold Out",
-      "url": "https://shop.palaceskateboards.com/products/rhie0w9q1q4y",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SHERPA FAUX SUEDE HOODED JACKET FOXSold Out",
-      "url": "https://shop.palaceskateboards.com/products/gfq4nu7gddk2",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SHERPA FAUX SUEDE HOODED JACKET BLACKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/akkb4vw6idng",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PERTEX NETPLUS MICROLITE JACKET CLARET / GREYSold Out",
-      "url": "https://shop.palaceskateboards.com/products/gv8bf4dcc9h3",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    }
-  ],
+  "Palace": [],
   "Aimé Leon Dore": [
     {
       "name": "Lookbook",
