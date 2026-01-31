@@ -1,5 +1,216 @@
 {
-  "Corteiz": [],
+  "Corteiz": [
+    {
+      "name": "ELITEWORK™ APEX SHELL JACKET [NAVY]",
+      "url": "https://crtz.xyz/products/elitework-shell-jacket-v3",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ELITEWORK™ APEX SHELL PANT [NAVY]",
+      "url": "https://crtz.xyz/products/elitework%E2%84%A2-waterproof-shell-pant-v2-navy",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PELT HOODED FUR JACKET [FAWN]",
+      "url": "https://crtz.xyz/products/faux-fur-hooded-jacket-v2",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "QUILTED EXCHANGE BOMBER [BLACK]",
+      "url": "https://crtz.xyz/products/quilted-exchange-bomber",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "LITEWORK QUATTRO JACKET [PINK]",
+      "url": "https://crtz.xyz/products/two-tone-shuku-jacket",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "LITEWORK QUATTRO PANT [PINK]",
+      "url": "https://crtz.xyz/products/two-tone-shuku-pant",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "LITEWORK QUATTRO JACKET [GREY]",
+      "url": "https://crtz.xyz/products/two-tone-shuku-jacket-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "LITEWORK QUATTRO PANT [GREY]",
+      "url": "https://crtz.xyz/products/two-tone-shuku-pant-1",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "DUAL STRIPE DENIM JACKET [WASHED BLACK]",
+      "url": "https://crtz.xyz/products/dual-stripe-denim-trucker-1",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "DUAL STRIPE BAGGY JEANS [WASHED BLACK]",
+      "url": "https://crtz.xyz/products/dual-stripe-baggy-jeans-washed-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "SPECIALE TRACK JACKET [BURGUNDY]",
+      "url": "https://crtz.xyz/products/script-tricot-track-jacket-burgundy",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "SPECIALE TRACK PANT [BURGUNDY]",
+      "url": "https://crtz.xyz/products/script-tricot-track-pant-burgundy",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND ZIP HOODIE [BLACK]",
+      "url": "https://crtz.xyz/products/mini-island-zip-hoodie-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND ZIP HOODIE [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/mini-island-zip-hoodie",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND SWEATPANT [BLACK]",
+      "url": "https://crtz.xyz/products/mini-island-sweatpant",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND SWEATPANT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/mini-island-sweatpant-1",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND CREWNECK [BLACK]",
+      "url": "https://crtz.xyz/products/mini-island-crewneck",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND CREWNECK [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/mini-island-crewneck-1",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND HOODIE TRACKSUIT [BLACK]",
+      "url": "https://crtz.xyz/products/mini-island-hoodie-tracksuit-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND HOODIE TRACKSUIT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/mini-island-hoodie-tracksuit-heather-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND CREWNECK TRACKSUIT [BLACK]",
+      "url": "https://crtz.xyz/products/mini-island-crewneck-tracksuit-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND CREWNECK TRACKSUIT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/mini-island-crewneck-tracksuit-heather-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP CONTRAST HOODIE [NAVY]",
+      "url": "https://crtz.xyz/products/hmp-contrast-layer-hoodie",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP CONTRAST OPEN HEM SWEATPANT [NAVY]",
+      "url": "https://crtz.xyz/products/hmp-contrast-open-hem-pant",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND PUFF PRINT ZIP HOODIE [OLIVE]",
+      "url": "https://crtz.xyz/products/island-puff-zip-hoodie-olive",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND PUFF PRINT OPEN HEM SWEATPANT [OLIVE]",
+      "url": "https://crtz.xyz/products/island-puff-open-hem-sweatpant-olive",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND PUFF PRINT TRACKSUIT [OLIVE]",
+      "url": "https://crtz.xyz/products/island-puff-print-tracksuit-olive",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "SPONSORS TRAINING CREWNECK [BLACK]",
+      "url": "https://crtz.xyz/products/sponsors-training-crewneck",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "SOPHOMORE CREWNECK [RED]",
+      "url": "https://crtz.xyz/products/sophomore-crewneck",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "SOPHOMORE SWEATPANT [RED]",
+      "url": "https://crtz.xyz/products/sophomore-sweatpant",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    }
+  ],
   "Represent": [
     {
       "name": "Gift Card",
@@ -16,15 +227,15 @@
       "score": 1.0
     },
     {
-      "name": "XSSMLXLXXL XXS Nothing Faster T-Shirt flat white 3 Colors MSRP $ $150 $150",
-      "url": "https://representclo.com/products/nothing-faster-t-shirt-flat-white",
+      "name": "XSSMLXLXXL XXS Nothing Faster T-Shirt stained black 3 Colors MSRP $ $150 $150",
+      "url": "https://representclo.com/products/nothing-faster-t-shirt-stained-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "SMLXLXXL XXSXS Western Initial T-Shirt flat white MSRP $ $150 $150",
-      "url": "https://representclo.com/products/western-initial-t-shirt-flat-white",
+      "name": "XSSMLXLXXL XXS Nothing Faster T-Shirt flat white 3 Colors MSRP $ $150 $150",
+      "url": "https://representclo.com/products/nothing-faster-t-shirt-flat-white",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -37,8 +248,22 @@
       "score": 1.0
     },
     {
+      "name": "SMLXLXXL XXSXS Western Initial T-Shirt flat white MSRP $ $150 $150",
+      "url": "https://representclo.com/products/western-initial-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
       "name": "XSSMLXLXXL XXS Nothing Faster T-Shirt indigo 3 Colors MSRP $ $150 $150",
       "url": "https://representclo.com/products/nothing-faster-t-shirt-indigo",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XSSMLXL XXSXXL Grand Vintage Hand Drawn T-Shirt aged white 2 Colors MSRP $ $130 $130",
+      "url": "https://representclo.com/products/grand-vintage-hand-drawn-t-shirt-aged-white",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -65,20 +290,6 @@
       "score": 1.0
     },
     {
-      "name": "XSSMLXL XXSXXL Grand Vintage Hand Drawn T-Shirt aged white 2 Colors MSRP $ $130 $130",
-      "url": "https://representclo.com/products/grand-vintage-hand-drawn-t-shirt-aged-white",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XSSMLXLXXL XXS Nothing Faster Hoodie indigo MSRP $ $270 $270",
-      "url": "https://representclo.com/products/nothing-faster-hoodie-indigo",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "XXS XS S M L XL XXL Heaton Workwear Jacket Washed black 2 Colors $410",
       "url": "https://representclo.com/products/heaton-workwear-jacket-washed-black",
       "price": null,
@@ -95,6 +306,13 @@
     {
       "name": "US7 US7.5 US8 US8.5 US9 US9.5 US10 US10.5 US11 US11.5 US12 US12.5 US13 US13.5 US14 Low-Pro Nubuck Brown $315",
       "url": "https://representclo.com/products/low-pro-nubuck-brown",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "US7 US7.5 US8 US8.5 US9 US9.5 US10 US10.5 US11 US11.5 US12 US12.5 US13 US13.5 US14 Low-Pro Leather Cream $315",
+      "url": "https://representclo.com/products/low-pro-leather-cream",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -143,14 +361,14 @@
     },
     {
       "name": "Nothing Faster T-Shirt",
-      "url": "https://representclo.com/products/nothing-faster-t-shirt-flat-white",
+      "url": "https://representclo.com/products/nothing-faster-t-shirt-stained-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "Western Initial T-Shirt",
-      "url": "https://representclo.com/products/western-initial-t-shirt-flat-white",
+      "name": "Nothing Faster T-Shirt",
+      "url": "https://representclo.com/products/nothing-faster-t-shirt-flat-white",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -163,8 +381,22 @@
       "score": 1.0
     },
     {
+      "name": "Western Initial T-Shirt",
+      "url": "https://representclo.com/products/western-initial-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
       "name": "Nothing Faster T-Shirt",
       "url": "https://representclo.com/products/nothing-faster-t-shirt-indigo",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Grand Vintage Hand Drawn T-Shirt",
+      "url": "https://representclo.com/products/grand-vintage-hand-drawn-t-shirt-aged-white",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -186,27 +418,6 @@
     {
       "name": "Represent X Puma T-Shirt",
       "url": "https://representclo.com/products/represent-x-puma-t-shirt-puma-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Grand Vintage Hand Drawn T-Shirt",
-      "url": "https://representclo.com/products/grand-vintage-hand-drawn-t-shirt-aged-white",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Nothing Faster Hoodie",
-      "url": "https://representclo.com/products/nothing-faster-hoodie-indigo",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Heaton Workwear Jacket",
-      "url": "https://representclo.com/products/heaton-workwear-jacket-washed-black",
       "price": null,
       "currency": null,
       "score": 1.0
