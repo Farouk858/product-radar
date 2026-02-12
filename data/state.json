@@ -1,6 +1,48 @@
 {
   "Corteiz": [
     {
+      "name": "ISLAND PUFF PRINT ZIP HOODIE [PINK TIGER CAMO]",
+      "url": "https://crtz.xyz/products/island-puff-print-zip-hoodie-pink-tiger-camo",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND PUFF PRINT OPEN HEM SWEATPANT [PINK TIGER CAMO]",
+      "url": "https://crtz.xyz/products/island-puff-print-open-hem-sweatpant-pink-tiger-camo",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ISLAND PUFF PRINT TEE [PINK TIGER CAMO]",
+      "url": "https://crtz.xyz/products/island-puff-print-tee-pink-tiger-camo",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "REMINDER TEE [PINK]",
+      "url": "https://crtz.xyz/products/reminder-tee-pink",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "NO TIME 4 LUV TEE [BLACK]",
+      "url": "https://crtz.xyz/products/no-time-4-luv-tee-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "NO TIME 4 LUV TEE [WHITE]",
+      "url": "https://crtz.xyz/products/no-time-4-luv-tee-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
       "name": "ELITEWORK™ APEX SHELL JACKET [NAVY]",
       "url": "https://crtz.xyz/products/elitework-shell-jacket-v3",
       "price": null,
@@ -167,48 +209,6 @@
       "price": null,
       "currency": null,
       "score": 1.0
-    },
-    {
-      "name": "ISLAND PUFF PRINT ZIP HOODIE [OLIVE]",
-      "url": "https://crtz.xyz/products/island-puff-zip-hoodie-olive",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND PUFF PRINT OPEN HEM SWEATPANT [OLIVE]",
-      "url": "https://crtz.xyz/products/island-puff-open-hem-sweatpant-olive",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND PUFF PRINT TRACKSUIT [OLIVE]",
-      "url": "https://crtz.xyz/products/island-puff-print-tracksuit-olive",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SPONSORS TRAINING CREWNECK [BLACK]",
-      "url": "https://crtz.xyz/products/sponsors-training-crewneck",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SOPHOMORE CREWNECK [RED]",
-      "url": "https://crtz.xyz/products/sophomore-crewneck",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SOPHOMORE SWEATPANT [RED]",
-      "url": "https://crtz.xyz/products/sophomore-sweatpant",
-      "price": null,
-      "currency": null,
-      "score": 1.0
     }
   ],
   "Represent": [
@@ -262,8 +262,8 @@
       "score": 1.0
     },
     {
-      "name": "SMLXLXXL XXSXS Western Initial T-Shirt flat white MSRP $ $150 $150",
-      "url": "https://representclo.com/products/western-initial-t-shirt-flat-white",
+      "name": "New Arrival XSSMLXLXXL XXS Dream On Tour T-Shirt sun fade grey 3 Colors MSRP $ $165 $165",
+      "url": "https://representclo.com/products/dream-on-tour-t-shirt-sun-fade-grey",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -276,15 +276,15 @@
       "score": 1.0
     },
     {
-      "name": "XSSMLXLXXL XXS British Cowboys T-Shirt stained black 3 Colors MSRP $ $175 $175",
-      "url": "https://representclo.com/products/british-cowboys-t-shirt-stained-black",
+      "name": "SMLXLXXL XXSXS Western Initial T-Shirt flat white MSRP $ $150 $150",
+      "url": "https://representclo.com/products/western-initial-t-shirt-flat-white",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "XL XXSXSSMLXXL 247 Ultra Singlet black fade out 2 Colors MSRP $ $115 $115",
-      "url": "https://representclo.com/products/247-ultra-singlet-black-fade-out",
+      "name": "XSSMLXLXXL XXS British Cowboys T-Shirt stained black 3 Colors MSRP $ $175 $175",
+      "url": "https://representclo.com/products/british-cowboys-t-shirt-stained-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -332,8 +332,8 @@
       "score": 1.0
     },
     {
-      "name": "Western Initial T-Shirt",
-      "url": "https://representclo.com/products/western-initial-t-shirt-flat-white",
+      "name": "Dream On Tour T-Shirt",
+      "url": "https://representclo.com/products/dream-on-tour-t-shirt-sun-fade-grey",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -346,6 +346,13 @@
       "score": 1.0
     },
     {
+      "name": "Western Initial T-Shirt",
+      "url": "https://representclo.com/products/western-initial-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
       "name": "British Cowboys T-Shirt",
       "url": "https://representclo.com/products/british-cowboys-t-shirt-stained-black",
       "price": null,
@@ -353,74 +360,67 @@
       "score": 1.0
     },
     {
-      "name": "247 Ultra Singlet",
-      "url": "https://representclo.com/products/247-ultra-singlet-black-fade-out",
+      "name": "New Arrival XXS XS S M L XL XXL Dream On Tour Hoodie Sun fade grey $270",
+      "url": "https://representclo.com/products/the-american-dream-tour-hoodie-sun-fade-grey",
       "price": null,
       "currency": null,
-      "score": 1.0
+      "score": 3.0
     },
     {
-      "name": "Arc",
-      "url": "https://representclo.com/collections/arc",
+      "name": "New Arrival XXS XS S M L XL XXL Dream On Tour T-Shirt Sun fade grey 3 Colors $165",
+      "url": "https://representclo.com/products/dream-on-tour-t-shirt-sun-fade-grey",
       "price": null,
       "currency": null,
-      "score": 1.0
+      "score": 3.0
     },
     {
-      "name": "Initial",
-      "url": "https://representclo.com/collections/initial-sneaker",
+      "name": "New Arrival XXS XS S M L XL XXL Dream On Tour T-Shirt Nero 3 Colors $165",
+      "url": "https://representclo.com/products/dream-on-tour-t-shirt-nero",
       "price": null,
       "currency": null,
-      "score": 1.0
+      "score": 3.0
     },
     {
-      "name": "Alpha 2.0",
-      "url": "https://representclo.com/collections/alpha-2-0",
+      "name": "New Arrival XXS XS S M L XL XXL Dream On Tour T-Shirt Washed ecru 3 Colors $165",
+      "url": "https://representclo.com/products/dream-on-tour-t-shirt-washed-ecru",
       "price": null,
       "currency": null,
-      "score": 1.0
+      "score": 3.0
     },
     {
-      "name": "Storm",
-      "url": "https://representclo.com/collections/storm-runner",
+      "name": "XXS XS S M L XL XXL Micro Owners Club Track Jacket Black $220",
+      "url": "https://representclo.com/products/micro-owners-club-track-jacket-black",
       "price": null,
       "currency": null,
-      "score": 1.0
+      "score": 3.0
     },
     {
-      "name": "Studio",
-      "url": "https://representclo.com/collections/studio-sneaker",
+      "name": "XXS XS S M L XL XXL Micro Owners Club Hoodie Jet black $190",
+      "url": "https://representclo.com/products/micro-owners-club-hoodie-jet-black",
       "price": null,
       "currency": null,
-      "score": 1.0
+      "score": 3.0
     },
     {
-      "name": "Virtus",
-      "url": "https://representclo.com/collections/virtus",
+      "name": "XXS XS S M L XL XXL Micro Owners Club Hoodie Cream marl $190",
+      "url": "https://representclo.com/products/micro-owners-club-hoodie-cream-marl",
       "price": null,
       "currency": null,
-      "score": 1.0
+      "score": 3.0
     },
     {
-      "name": "HTN",
-      "url": "https://representclo.com/collections/htn",
+      "name": "XXS XS S M L XL XXL Micro Owners Club Hoodie Pink $190",
+      "url": "https://representclo.com/products/micro-owners-club-hoodie-pink",
       "price": null,
       "currency": null,
-      "score": 1.0
+      "score": 3.0
     },
     {
-      "name": "Bully",
-      "url": "https://representclo.com/collections/bully-sneaker",
+      "name": "Dream On Tour Hoodie",
+      "url": "https://representclo.com/products/the-american-dream-tour-hoodie-sun-fade-grey",
       "price": null,
       "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Apex",
-      "url": "https://representclo.com/collections/apex-collection",
-      "price": null,
-      "currency": null,
-      "score": 1.0
+      "score": 3.0
     }
   ],
   "Supreme": [],
