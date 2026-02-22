@@ -1,216 +1,5 @@
 {
-  "Corteiz": [
-    {
-      "name": "ELITEWORK™ APEX SHELL JACKET [NAVY]",
-      "url": "https://crtz.xyz/products/elitework-shell-jacket-v3",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ELITEWORK™ APEX SHELL PANT [NAVY]",
-      "url": "https://crtz.xyz/products/elitework%E2%84%A2-waterproof-shell-pant-v2-navy",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PELT HOODED FUR JACKET [FAWN]",
-      "url": "https://crtz.xyz/products/faux-fur-hooded-jacket-v2",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "QUILTED EXCHANGE BOMBER [BLACK]",
-      "url": "https://crtz.xyz/products/quilted-exchange-bomber",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LITEWORK QUATTRO JACKET [PINK]",
-      "url": "https://crtz.xyz/products/two-tone-shuku-jacket",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LITEWORK QUATTRO PANT [PINK]",
-      "url": "https://crtz.xyz/products/two-tone-shuku-pant",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LITEWORK QUATTRO JACKET [GREY]",
-      "url": "https://crtz.xyz/products/two-tone-shuku-jacket-grey",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LITEWORK QUATTRO PANT [GREY]",
-      "url": "https://crtz.xyz/products/two-tone-shuku-pant-1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "DUAL STRIPE DENIM JACKET [WASHED BLACK]",
-      "url": "https://crtz.xyz/products/dual-stripe-denim-trucker-1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "DUAL STRIPE BAGGY JEANS [WASHED BLACK]",
-      "url": "https://crtz.xyz/products/dual-stripe-baggy-jeans-washed-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SPECIALE TRACK JACKET [BURGUNDY]",
-      "url": "https://crtz.xyz/products/script-tricot-track-jacket-burgundy",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SPECIALE TRACK PANT [BURGUNDY]",
-      "url": "https://crtz.xyz/products/script-tricot-track-pant-burgundy",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND ZIP HOODIE [BLACK]",
-      "url": "https://crtz.xyz/products/mini-island-zip-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND ZIP HOODIE [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/mini-island-zip-hoodie",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND SWEATPANT [BLACK]",
-      "url": "https://crtz.xyz/products/mini-island-sweatpant",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND SWEATPANT [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/mini-island-sweatpant-1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND CREWNECK [BLACK]",
-      "url": "https://crtz.xyz/products/mini-island-crewneck",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND CREWNECK [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/mini-island-crewneck-1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND HOODIE TRACKSUIT [BLACK]",
-      "url": "https://crtz.xyz/products/mini-island-hoodie-tracksuit-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND HOODIE TRACKSUIT [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/mini-island-hoodie-tracksuit-heather-grey",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND CREWNECK TRACKSUIT [BLACK]",
-      "url": "https://crtz.xyz/products/mini-island-crewneck-tracksuit-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND CREWNECK TRACKSUIT [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/mini-island-crewneck-tracksuit-heather-grey",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP CONTRAST HOODIE [NAVY]",
-      "url": "https://crtz.xyz/products/hmp-contrast-layer-hoodie",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP CONTRAST OPEN HEM SWEATPANT [NAVY]",
-      "url": "https://crtz.xyz/products/hmp-contrast-open-hem-pant",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND PUFF PRINT ZIP HOODIE [OLIVE]",
-      "url": "https://crtz.xyz/products/island-puff-zip-hoodie-olive",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND PUFF PRINT OPEN HEM SWEATPANT [OLIVE]",
-      "url": "https://crtz.xyz/products/island-puff-open-hem-sweatpant-olive",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND PUFF PRINT TRACKSUIT [OLIVE]",
-      "url": "https://crtz.xyz/products/island-puff-print-tracksuit-olive",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SPONSORS TRAINING CREWNECK [BLACK]",
-      "url": "https://crtz.xyz/products/sponsors-training-crewneck",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SOPHOMORE CREWNECK [RED]",
-      "url": "https://crtz.xyz/products/sophomore-crewneck",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SOPHOMORE SWEATPANT [RED]",
-      "url": "https://crtz.xyz/products/sophomore-sweatpant",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    }
-  ],
+  "Corteiz": [],
   "Represent": [
     {
       "name": "Gift Card",
@@ -229,13 +18,6 @@
     {
       "name": "SML XXSXSXLXXL 247 Torch Boxy T-Shirt washed black 2 Colors MSRP $ $110 $110",
       "url": "https://representclo.com/products/247-torch-boxy-t-shirt-washed-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XSSMLXLXXL XXS Nothing Faster T-Shirt flat white 3 Colors MSRP $ $150 $150",
-      "url": "https://representclo.com/products/nothing-faster-t-shirt-flat-white",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -262,13 +44,6 @@
       "score": 1.0
     },
     {
-      "name": "XXSXSSMLXLXXL Micro Owners Club T-Shirt jet black 4 Colors MSRP $ $110 $110",
-      "url": "https://representclo.com/products/micro-owners-club-t-shirt-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "XSSMLXLXXL XXS Team 247 Star Tank jet black 3 Colors MSRP $ $105 $105",
       "url": "https://representclo.com/products/team-247-star-tank-jet-black",
       "price": null,
@@ -276,8 +51,22 @@
       "score": 1.0
     },
     {
-      "name": "XSSMLXLXXL XXS Nothing Faster T-Shirt stained black 3 Colors MSRP $ $150 $150",
-      "url": "https://representclo.com/products/nothing-faster-t-shirt-stained-black",
+      "name": "XXSXSSMLXLXXL Micro Owners Club T-Shirt jet black 4 Colors MSRP $ $110 $110",
+      "url": "https://representclo.com/products/micro-owners-club-t-shirt-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XSSMLXLXXL XXS Nothing Faster T-Shirt flat white 3 Colors MSRP $ $150 $150",
+      "url": "https://representclo.com/products/nothing-faster-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XSSMLXLXXL XXS Team 247 Oversized Tank jet black 3 Colors MSRP $ $85 $85",
+      "url": "https://representclo.com/products/team-247-oversized-tank-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -290,15 +79,15 @@
       "score": 1.0
     },
     {
-      "name": "XXS XS S M L XL XXL Team 247 Star Oversized T-Shirt Jet black 3 Colors $110",
-      "url": "https://representclo.com/products/team-247-star-oversized-t-shirt-jet-black",
+      "name": "XXS XS S M L XL XXL 247 Torch Boxy T-Shirt Bleach wash 2 Colors $110",
+      "url": "https://representclo.com/products/247-torch-boxy-t-shirt-bleach-wash",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "XXS XS S M L XL XXL 247 Torch Boxy T-Shirt Bleach wash 2 Colors $110",
-      "url": "https://representclo.com/products/247-torch-boxy-t-shirt-bleach-wash",
+      "name": "XXS XS S M L XL XXL Team 247 Star Oversized T-Shirt Jet black 3 Colors $110",
+      "url": "https://representclo.com/products/team-247-star-oversized-t-shirt-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
