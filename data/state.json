@@ -217,77 +217,14 @@
       "url": "https://representclo.com/products/gift-card",
       "price": null,
       "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Gift cards",
+      "url": "https://representclo.com/products/gift-card",
+      "price": null,
+      "currency": null,
       "score": 4.0
-    },
-    {
-      "name": "XSSML XXSXLXXL Team 247 Star Oversized T-Shirt jet black 3 Colors $ $110 $110",
-      "url": "https://representclo.com/products/team-247-star-oversized-t-shirt-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XSSMLXLXXL XXS Team 247 Star Tank jet black 3 Colors $ $105 $105",
-      "url": "https://representclo.com/products/team-247-star-tank-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XXSXSMXLXXL SL Micro Owners Club T-Shirt jet black 4 Colors $ $110 $110",
-      "url": "https://representclo.com/products/micro-owners-club-t-shirt-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XSMXXL XXSSLXL 247 Hybrid Tank black fade out 3 Colors $ $110 $110",
-      "url": "https://representclo.com/products/247-hybrid-tank-black-fade-out",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MXXL XXSXSSLXL 247 Torch Boxy Tank washed black 2 Colors $ $105 $105",
-      "url": "https://representclo.com/products/247-torch-boxy-tank-washed-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XSSMLXLXXL 247 Los Angeles T-Shirt aop khaki $ $125 $125",
-      "url": "https://representclo.com/products/247-los-angeles-26-shirt-khaki",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XSSMLXLXXL XXS 247 Hybrid T-Shirt black fade out 3 Colors $ $115 $115",
-      "url": "https://representclo.com/products/247-hybrid-t-shirt-black-fade-out",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SMLXLXXL XXSXS Nothing Faster T-Shirt stained black 3 Colors $ $150 $150",
-      "url": "https://representclo.com/products/nothing-faster-t-shirt-stained-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XSSMLXLXXL XXS Team 247 Oversized Tank jet black 3 Colors $ $85 $85",
-      "url": "https://representclo.com/products/team-247-oversized-tank-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XSSMLXXL XXSXL Team 247 Star Oversized T-Shirt flat white 3 Colors $ $110 $110",
-      "url": "https://representclo.com/products/team-247-star-oversized-t-shirt-flat-white",
-      "price": null,
-      "currency": null,
-      "score": 1.0
     },
     {
       "name": "XXS XS S M L XL XXL Team 247 Star Oversized T-Shirt Jet black 3 Colors $110",
@@ -409,6 +346,13 @@
       "score": 1.0
     },
     {
+      "name": "XXS XS S M L XL XXL Nothing Faster T-Shirt Stained black 3 Colors $150",
+      "url": "https://representclo.com/products/nothing-faster-t-shirt-stained-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
       "name": "XXS XS S M L XL XXL Heaton Workwear Pant Jet black 2 Colors $290",
       "url": "https://representclo.com/products/heaton-workwear-pant-jet-black",
       "price": null,
@@ -416,8 +360,64 @@
       "score": 1.0
     },
     {
-      "name": "XXS XS S M L XL XXL Nothing Faster T-Shirt Stained black 3 Colors $150",
-      "url": "https://representclo.com/products/nothing-faster-t-shirt-stained-black",
+      "name": "XXS XS S M L XL XXL Nothing Faster T-Shirt Flat white 3 Colors $150",
+      "url": "https://representclo.com/products/nothing-faster-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "28 29 30 31 32 33 34 36 38 Kick Flare Denim California blue 2 Colors $220",
+      "url": "https://representclo.com/products/kick-flare-denim-california-blue",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "New Arrival XXS XS S M L XL XXL Dream On Tour T-Shirt Sun fade grey 3 Colors $165",
+      "url": "https://representclo.com/products/dream-on-tour-t-shirt-sun-fade-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Heaton Workwear Jacket Irish cream 2 Colors $410",
+      "url": "https://representclo.com/products/heaton-workwear-jacket-irish-cream",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Heaton Workwear Jacket Washed black 2 Colors $410",
+      "url": "https://representclo.com/products/heaton-workwear-jacket-washed-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club Hoodie Black 7 Colors $200",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club Hoodie Ash grey 7 Colors $200",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-ash-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Black 9 Colors $115",
+      "url": "https://representclo.com/products/represent-owners-club-t-shirt-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Flat white 9 Colors $115",
+      "url": "https://representclo.com/products/represent-owners-club-t-shirt-flat-white",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -426,210 +426,140 @@
   "Supreme": [
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/mes3q3whwufnhobt",
+      "url": "https://www.supremenewyork.com/products/ki8avktis984gpxx",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/ukkohe-ol0ou0wu7",
+      "url": "https://www.supremenewyork.com/products/tikfrp8bdgw66jhh",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/ac9wpfvi38o_8i3h",
+      "url": "https://www.supremenewyork.com/products/oufxnauoghsf6hu4",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/udyzx7iiyu9anzvl",
+      "url": "https://www.supremenewyork.com/products/x-8aeft7sen7klv",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/_cwvtqj3bfiev_yl",
+      "url": "https://www.supremenewyork.com/products/arj3evoe-vagleo",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/zzgxfjl3i5d9rok",
+      "url": "https://www.supremenewyork.com/products/1lrohonubs8xaypv",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/2pnbd9-wavz1uhqd",
+      "url": "https://www.supremenewyork.com/products/jh8ismyt4pk_3bvy",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/vozk5qv_mjxhfekh",
+      "url": "https://www.supremenewyork.com/products/d-skh1dzpt0oko04",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/bgm1jxvbl0y7dhg8",
+      "url": "https://www.supremenewyork.com/products/0ycq8-hxpgkzpun",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/d-xltlyp2gcixxi9",
+      "url": "https://www.supremenewyork.com/products/3i3pffctxywgaajv",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/buuafzhwx5g2hbl",
+      "url": "https://www.supremenewyork.com/products/hoj_arjsbmyjwp4m",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/a15e2fmkzbzggfx",
+      "url": "https://www.supremenewyork.com/products/yzkc8xn-vfnojb5p",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/glpltv0fvxbkjoln",
+      "url": "https://www.supremenewyork.com/products/rr2qqvukrau3i1ke",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/cy5laakdwosq1ibw",
+      "url": "https://www.supremenewyork.com/products/ncrsh2iei-8au_q5",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/3bczr2_dswkcobmi",
+      "url": "https://www.supremenewyork.com/products/223mi2glsg6_-r_e",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/_a5wfxdob536cecx",
+      "url": "https://www.supremenewyork.com/products/jl-tvy7i37ewoz_o",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/wqkgqruho9n-qrv8",
+      "url": "https://www.supremenewyork.com/products/uz1olso9s7t5xqib",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/dmjrormcu6lfqoca",
+      "url": "https://www.supremenewyork.com/products/y-_htktsnmq1p7tc",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/ey-c-qt9t_wxfmdf",
+      "url": "https://www.supremenewyork.com/products/_u_4niihbgbq9y-v",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
       "name": "new",
-      "url": "https://www.supremenewyork.com/products/ubfa3dgkvr3qjwmh",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "new",
-      "url": "https://www.supremenewyork.com/products/iispj51_f7naskre",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "new",
-      "url": "https://www.supremenewyork.com/products/hwhh-qtwmrewhhs1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "new",
-      "url": "https://www.supremenewyork.com/products/qql7w0ccqfn7rde5",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "new",
-      "url": "https://www.supremenewyork.com/products/pa3slfbblc2agc3",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "new",
-      "url": "https://www.supremenewyork.com/products/n0crjugsfeuina-a",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "new",
-      "url": "https://www.supremenewyork.com/products/sd2_0ogqrhrrkx3w",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "new",
-      "url": "https://www.supremenewyork.com/products/3zqmpj4izrqof1bv",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "new",
-      "url": "https://www.supremenewyork.com/products/hf2xau3jp2bx9rzl",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "new",
-      "url": "https://www.supremenewyork.com/products/wtuiqyqxybik-7g_",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "new",
-      "url": "https://www.supremenewyork.com/products/vwsvm5gem-o1gefx",
+      "url": "https://www.supremenewyork.com/products/bgczu3xjlvopgdl7",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -679,15 +609,15 @@
       "score": 1.0
     },
     {
-      "name": "GORE-TEX WINDSTOPPER DOWN PARKA NAVY$708",
-      "url": "https://shop.palaceskateboards.com/products/p8tzn09qexk1",
+      "name": "GORE-TEX WINDSTOPPER DOWN PARKA BLACK$708",
+      "url": "https://shop.palaceskateboards.com/products/4us317py8wgv",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "GORE-TEX WINDSTOPPER DOWN PARKA BLACK$708",
-      "url": "https://shop.palaceskateboards.com/products/4us317py8wgv",
+      "name": "GORE-TEX WINDSTOPPER DOWN PARKA NAVY$708",
+      "url": "https://shop.palaceskateboards.com/products/p8tzn09qexk1",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -700,8 +630,8 @@
       "score": 1.0
     },
     {
-      "name": "GORE-TEX 2L P-TEK JACKET K-NEIN PRINTSold Out",
-      "url": "https://shop.palaceskateboards.com/products/h2igu8atbvww",
+      "name": "GORE-TEX 2L P-TEK JACKET BLACKSold Out",
+      "url": "https://shop.palaceskateboards.com/products/6cbuqah93q6q",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -714,15 +644,8 @@
       "score": 1.0
     },
     {
-      "name": "GORE-TEX 2L P-TEK JACKET BLACKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/6cbuqah93q6q",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "REALTREE REVERSIBLE JACKET BLACK$388",
-      "url": "https://shop.palaceskateboards.com/products/nv09j1qe9qu3",
+      "name": "GORE-TEX 2L P-TEK JACKET K-NEIN PRINTSold Out",
+      "url": "https://shop.palaceskateboards.com/products/h2igu8atbvww",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -730,6 +653,13 @@
     {
       "name": "REALTREE REVERSIBLE JACKET THE DEEP GREEN$388",
       "url": "https://shop.palaceskateboards.com/products/ftnehhu2a0nu",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "REALTREE REVERSIBLE JACKET BLACK$388",
+      "url": "https://shop.palaceskateboards.com/products/nv09j1qe9qu3",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -763,13 +693,6 @@
       "score": 1.0
     },
     {
-      "name": "NEED FOR P'S JACKET WHITESold Out",
-      "url": "https://shop.palaceskateboards.com/products/atv0fuf673up",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "NEED FOR P'S JACKET BLACK$428",
       "url": "https://shop.palaceskateboards.com/products/4nuzt5pds58y",
       "price": null,
@@ -777,15 +700,8 @@
       "score": 1.0
     },
     {
-      "name": "ESTABLISHED PUFFA RED$388",
-      "url": "https://shop.palaceskateboards.com/products/t1oq7vj3104l",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ESTABLISHED PUFFA BLACK$388",
-      "url": "https://shop.palaceskateboards.com/products/dpuux5k9uj0f",
+      "name": "NEED FOR P'S JACKET WHITESold Out",
+      "url": "https://shop.palaceskateboards.com/products/atv0fuf673up",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -798,6 +714,20 @@
       "score": 1.0
     },
     {
+      "name": "ESTABLISHED PUFFA BLACK$388",
+      "url": "https://shop.palaceskateboards.com/products/dpuux5k9uj0f",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ESTABLISHED PUFFA RED$388",
+      "url": "https://shop.palaceskateboards.com/products/t1oq7vj3104l",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
       "name": "PERFORMANCE PUFFA BLACKSold Out",
       "url": "https://shop.palaceskateboards.com/products/mcbxy35syv19",
       "price": null,
@@ -805,15 +735,15 @@
       "score": 1.0
     },
     {
-      "name": "PERFORMANCE PUFFA NAVYSold Out",
-      "url": "https://shop.palaceskateboards.com/products/uxw5gm68np86",
+      "name": "PERFORMANCE PUFFA GREYSold Out",
+      "url": "https://shop.palaceskateboards.com/products/sm103w4zdf11",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "PERFORMANCE PUFFA GREYSold Out",
-      "url": "https://shop.palaceskateboards.com/products/sm103w4zdf11",
+      "name": "PERFORMANCE PUFFA NAVYSold Out",
+      "url": "https://shop.palaceskateboards.com/products/uxw5gm68np86",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -840,8 +770,8 @@
       "score": 1.0
     },
     {
-      "name": "SHERPA FAUX SUEDE HOODED JACKET FOXSold Out",
-      "url": "https://shop.palaceskateboards.com/products/gfq4nu7gddk2",
+      "name": "SHERPA FAUX SUEDE HOODED JACKET WHITESold Out",
+      "url": "https://shop.palaceskateboards.com/products/rhie0w9q1q4y",
       "price": null,
       "currency": null,
       "score": 1.0
