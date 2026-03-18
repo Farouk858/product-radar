@@ -304,13 +304,6 @@
       "score": 1.0
     },
     {
-      "name": "XXS XS S M L XL XXL Heaton Workwear Pant Jet black 2 Colors $290",
-      "url": "https://representclo.com/products/heaton-workwear-pant-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "28 29 30 31 32 33 34 36 38 Kick Flare Denim California blue 2 Colors $220",
       "url": "https://representclo.com/products/kick-flare-denim-california-blue",
       "price": null,
@@ -318,8 +311,8 @@
       "score": 1.0
     },
     {
-      "name": "XXS XS S M L XL XXL Heaton Workwear Jacket Irish cream 2 Colors $410",
-      "url": "https://representclo.com/products/heaton-workwear-jacket-irish-cream",
+      "name": "XXS XS S M L XL XXL Heaton Workwear Pant Jet black 2 Colors $290",
+      "url": "https://representclo.com/products/heaton-workwear-pant-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -327,6 +320,13 @@
     {
       "name": "New Arrival XXS XS S M L XL XXL Dream On Tour T-Shirt Sun fade grey 3 Colors $165",
       "url": "https://representclo.com/products/dream-on-tour-t-shirt-sun-fade-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Heaton Workwear Jacket Irish cream 2 Colors $410",
+      "url": "https://representclo.com/products/heaton-workwear-jacket-irish-cream",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -402,22 +402,22 @@
       "score": 1.0
     },
     {
-      "name": "XXS XS S M L XL XXL Initial Oversized T-Shirt Coffee $90",
-      "url": "https://representclo.com/products/initial-oversized-t-shirt-coffee",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Initial Boxy Sweater Coffee 2 Colors $140",
-      "url": "https://representclo.com/products/initial-boxy-sweater-coffee",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "XXS XS S M L XL XXL Initial Boxy T-Shirt Flat white 3 Colors $90",
       "url": "https://representclo.com/products/initial-boxy-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Initial Overdye Realtree® Boxy Sweater Overdyed black 2 Colors $195",
+      "url": "https://representclo.com/products/initial-overdye-realtree-boxy-sweater-overdyed-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Initial Oversized Sweater Ice grey marl $140",
+      "url": "https://representclo.com/products/initial-oversized-sweater-ice-grey-marl",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -581,14 +581,14 @@
       "score": 1.0
     },
     {
-      "name": "PALACE WORLD INDUSTRIES KNIT BLACK$198",
+      "name": "PALACE WORLD INDUSTRIES KNIT BLACKSold Out",
       "url": "https://shop.palaceskateboards.com/products/ouxrdowkcx6m",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "PALACE WORLD INDUSTRIES KNIT OFF WHITE$198",
+      "name": "PALACE WORLD INDUSTRIES KNIT OFF WHITESold Out",
       "url": "https://shop.palaceskateboards.com/products/tp00dyctks6o",
       "price": null,
       "currency": null,
@@ -783,14 +783,14 @@
       "url": "https://www.aimeleondore.com/blogs/news/spring-summer-2026-lookbook",
       "price": null,
       "currency": null,
-      "score": 6.0
+      "score": 4.0
     },
     {
       "name": "News",
       "url": "https://www.aimeleondore.com/blogs/news",
       "price": null,
       "currency": null,
-      "score": 6.0
+      "score": 4.0
     }
   ],
   "Jaded London": []
