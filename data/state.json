@@ -1,22 +1,29 @@
 {
   "Corteiz": [
     {
-      "name": "LOTTO SOCKS",
-      "url": "https://crtz.xyz/products/lotto-socks",
+      "name": "LOTTO HOODIES / SWEATSHIRTS",
+      "url": "https://crtz.xyz/products/lotto-hoodies-sweatshirts",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "LOTTO BEANIES",
-      "url": "https://crtz.xyz/products/lotto-beanies",
+      "name": "LOTTO BOTTOMS",
+      "url": "https://crtz.xyz/products/lotto-bottoms",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "LOTTO WOMENS TOPS",
-      "url": "https://crtz.xyz/products/lotto-womens-tops",
+      "name": "LOTTO KNITWEAR",
+      "url": "https://crtz.xyz/products/lotto-knitwear",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "LOTTO JACKETS",
+      "url": "https://crtz.xyz/products/lotto-jackets",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -36,36 +43,29 @@
       "score": 1.0
     },
     {
+      "name": "LOTTO WOMENS TOPS",
+      "url": "https://crtz.xyz/products/lotto-womens-tops",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "LOTTO BEANIES",
+      "url": "https://crtz.xyz/products/lotto-beanies",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "LOTTO SOCKS",
+      "url": "https://crtz.xyz/products/lotto-socks",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
       "name": "LOTTO CAPS",
       "url": "https://crtz.xyz/products/lotto-caps",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO HOODIES / SWEATSHIRTS",
-      "url": "https://crtz.xyz/products/lotto-hoodies-sweatshirts",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO BOTTOMS",
-      "url": "https://crtz.xyz/products/lotto-bottoms",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO JACKETS",
-      "url": "https://crtz.xyz/products/lotto-jackets",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO KNITWEAR",
-      "url": "https://crtz.xyz/products/lotto-knitwear",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -227,15 +227,15 @@
       "score": 4.0
     },
     {
-      "name": "28 29 30 31 32 33 34 36 38 Heaton Denim Jet black 6 Colors $245",
-      "url": "https://representclo.com/products/heaton-denim-jet-black",
+      "name": "XXS XS S M L XL XXL Represent x The Viper Room Dice T-Shirt Vintage grey 2 Colors $150",
+      "url": "https://representclo.com/products/represent-x-the-viper-room-dice-t-shirt-vintage-grey",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "XXS XS S M L XL XXL Represent x The Viper Room Dice T-Shirt Vintage grey 2 Colors $150",
-      "url": "https://representclo.com/products/represent-x-the-viper-room-dice-t-shirt-vintage-grey",
+      "name": "28 29 30 31 32 33 34 36 38 Heaton Denim Jet black 6 Colors $245",
+      "url": "https://representclo.com/products/heaton-denim-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -276,8 +276,8 @@
       "score": 1.0
     },
     {
-      "name": "Pre-Order Represent x Mels Diner x 47 Cap Brown Coming Soon",
-      "url": "https://representclo.com/products/represent-x-mels-diner-x-47-cap-brown",
+      "name": "XXS XS S M L XL XXL Pegasus Zip Through Hoodie Indigo $300",
+      "url": "https://representclo.com/products/pegasus-zip-through-hoodie-indigo",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -374,15 +374,15 @@
       "score": 1.0
     },
     {
-      "name": "XXS XS S M L XL XXL Represent Owners Club Rugby Polo Faded black 2 Colors $145",
-      "url": "https://representclo.com/products/fw25-represent-owners-club-rugby-polo-faded-black",
+      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Buttercream 11 Colors $115",
+      "url": "https://representclo.com/products/fw25-represent-owners-club-t-shirt-buttercream",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Buttercream 11 Colors $115",
-      "url": "https://representclo.com/products/fw25-represent-owners-club-t-shirt-buttercream",
+      "name": "XXS XS S M L XL XXL Represent Owners Club Rugby Polo Faded black 2 Colors $145",
+      "url": "https://representclo.com/products/fw25-represent-owners-club-rugby-polo-faded-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -416,8 +416,8 @@
       "score": 4.0
     },
     {
-      "name": "XXS XS S M L XL XXL Initial Oversized T-Shirt Flat white 5 Colors $85",
-      "url": "https://representclo.com/products/initial-oversized-t-shirt-flat-white",
+      "name": "XXS XS S M L XL XXL Initial Oversized T-Shirt Vintage grey 5 Colors $85",
+      "url": "https://representclo.com/products/initial-oversized-t-shirt-vintage-grey",
       "price": null,
       "currency": null,
       "score": 4.0
