@@ -1,99 +1,8 @@
 {
   "Corteiz": [
     {
-      "name": "LOTTO HOODIES / SWEATSHIRTS",
-      "url": "https://crtz.xyz/products/lotto-hoodies-sweatshirts",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO BOTTOMS",
-      "url": "https://crtz.xyz/products/lotto-bottoms",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO KNITWEAR",
-      "url": "https://crtz.xyz/products/lotto-knitwear",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO JACKETS",
-      "url": "https://crtz.xyz/products/lotto-jackets",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO TOPS / JERSEYS",
-      "url": "https://crtz.xyz/products/lotto-tops-jerseys",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO T-SHIRTS",
-      "url": "https://crtz.xyz/products/lotto-t-shirts",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO WOMENS TOPS",
-      "url": "https://crtz.xyz/products/lotto-womens-tops",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO BEANIES",
-      "url": "https://crtz.xyz/products/lotto-beanies",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO SOCKS",
-      "url": "https://crtz.xyz/products/lotto-socks",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "LOTTO CAPS",
-      "url": "https://crtz.xyz/products/lotto-caps",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND ZIP HOODIE [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/mini-island-zip-hoodie",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND SWEATPANT [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/mini-island-sweatpant-1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND ZIP HOODIE [BLACK]",
-      "url": "https://crtz.xyz/products/mini-island-zip-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND SWEATPANT [BLACK]",
-      "url": "https://crtz.xyz/products/mini-island-sweatpant",
+      "name": "ISLAND PUFF PRINT ZIP HOODIE [BLACK]",
+      "url": "https://crtz.xyz/products/island-puff-print-zip-hoodie-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -106,6 +15,13 @@
       "score": 1.0
     },
     {
+      "name": "ISLAND PUFF PRINT OPEN HEM SWEATPANT [BLACK]",
+      "url": "https://crtz.xyz/products/island-puff-print-open-hem-pant-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
       "name": "ISLAND PUFF PRINT OPEN HEM SWEATPANT [HEATHER GREY]",
       "url": "https://crtz.xyz/products/island-puff-print-open-hem-pant-1",
       "price": null,
@@ -113,15 +29,113 @@
       "score": 1.0
     },
     {
-      "name": "ALCATRAZ HOODIE [BLACK & WHITE]",
-      "url": "https://crtz.xyz/products/alcatraz-hoodie-v2-black-white",
+      "name": "ISLAND PUFF PRINT SWEATSHORT [BLACK]",
+      "url": "https://crtz.xyz/products/island-sweatshort-black-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "ALCATRAZ CARGO PANT [BLACK]",
-      "url": "https://crtz.xyz/products/guerillaz-cargos-black-white",
+      "name": "ISLAND PUFF PRINT SWEATSHORT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/island-puff-print-sweatshort-heather-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND ZIP HOODIE [BLACK]",
+      "url": "https://crtz.xyz/products/mini-island-zip-hoodie-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND ZIP HOODIE [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/mini-island-zip-hoodie",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND SWEATPANT [BLACK]",
+      "url": "https://crtz.xyz/products/mini-island-sweatpant",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND SWEATPANT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/mini-island-sweatpant-1",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND CREWNECK [BLACK]",
+      "url": "https://crtz.xyz/products/mini-island-crewneck",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "MINI ISLAND CREWNECK [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/mini-island-crewneck-1",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP THERMAL ZIP HOODIE [BLACK]",
+      "url": "https://crtz.xyz/products/hmp-thermal-zip-hoodie-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP THERMAL ZIP HOODIE [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/hmp-thermal-zip-hoodie-heather-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP OPEN HEM SWEATPANT [BLACK]",
+      "url": "https://crtz.xyz/products/hmp-open-hem-pant-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP OPEN HEM SWEATPANT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/hmp-open-hem-pant-heather-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP V2 SWEATSHIRT [BLACK]",
+      "url": "https://crtz.xyz/products/hmp-v2-sweatshirt-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP V2 SWEATSHIRT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/hmp-v2-sweatshirt-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP V2 SWEATPANT [BLACK]",
+      "url": "https://crtz.xyz/products/hmp-v2-sweatpant-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP V2 SWEATPANT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/hmp-v2-sweatpant-grey",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -141,43 +155,43 @@
       "score": 1.0
     },
     {
-      "name": "OG ISLAND LS TEE [BLACK]",
-      "url": "https://crtz.xyz/products/island-print-ls-tee-black",
+      "name": "ALCATRAZ HOODIE [BLACK & WHITE]",
+      "url": "https://crtz.xyz/products/alcatraz-hoodie-v2-black-white",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "OG ISLAND LS TEE [WHITE]",
-      "url": "https://crtz.xyz/products/og-island-r-longsleeve-tee-white",
+      "name": "ALCATRAZ CARGO PANT [BLACK]",
+      "url": "https://crtz.xyz/products/guerillaz-cargos-black-white",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "OG ISLAND TEE [BLACK]",
-      "url": "https://crtz.xyz/products/og-island-logo-tee-black-new-blank",
+      "name": "BOLO DOWN JACKET [TRIPLE BLACK]",
+      "url": "https://crtz.xyz/products/bolo-v2-puffer-jacket-2025-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "OG ISLAND TEE [WHITE]",
-      "url": "https://crtz.xyz/products/og-island-tee-white",
+      "name": "ELITEWORK™ WATERPROOF SHELL PANT [BLACK]",
+      "url": "https://crtz.xyz/products/elitework-waterproof-shell-pant-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "REMINDER TEE [BLACK]",
-      "url": "https://crtz.xyz/products/get-my-bread-up-tee-black-new-blank",
+      "name": "GUERILLAZ CARGO PANT [BLACK]",
+      "url": "https://crtz.xyz/products/guerillaz-cargo-pant-black",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "REMINDER TEE [WHITE]",
-      "url": "https://crtz.xyz/products/get-my-bread-up-tee-white-new-blank",
+      "name": "GUERILLAZ CARGO SHORT [BLACK]",
+      "url": "https://crtz.xyz/products/guerillaz-cargo-short-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -192,20 +206,6 @@
     {
       "name": "ISLAND WAFFLE THERMAL [CREAM]",
       "url": "https://crtz.xyz/products/island-thermal-ls-cream",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GUERILLAZ THERMAL LS TEE [BLACK]",
-      "url": "https://crtz.xyz/products/guerillaz-thermal-ls-tee-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GUERILLAZ THERMAL LS TEE [CREAM]",
-      "url": "https://crtz.xyz/products/guerillaz-thermal-ls-tee",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -225,6 +225,62 @@
       "price": null,
       "currency": null,
       "score": 4.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Initial Henley Waffle Long Sleeve T-Shirt Flat white $95",
+      "url": "https://representclo.com/products/initial-henley-waffle-long-sleeve-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Initial Sheer Rib Long Sleeve T-Shirt Jet black $95",
+      "url": "https://representclo.com/products/initial-sheer-rib-long-sleeve-t-shirt-jet-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Initial Sheer Rib Long Sleeve T-Shirt Flat white $95",
+      "url": "https://representclo.com/products/initial-sheer-rib-long-sleeve-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Initial Boxy Zip Through Hoodie Mist $150",
+      "url": "https://representclo.com/products/initial-boxy-zip-through-hoodie-mist",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Initial Oversized Hoodie Canary yellow $140",
+      "url": "https://representclo.com/products/initial-oversized-hoodie-canary-yellow",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Initial Oversized Hoodie Midnight navy $140",
+      "url": "https://representclo.com/products/initial-oversized-hoodie-midnight-navy",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Initial Boxy Hoodie Mist $140",
+      "url": "https://representclo.com/products/initial-boxy-hoodie-mist",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Initial Boxy Zip Through Hoodie Canary yellow $150",
+      "url": "https://representclo.com/products/initial-boxy-zip-through-hoodie-canary-yellow",
+      "price": null,
+      "currency": null,
+      "score": 1.0
     },
     {
       "name": "XXS XS S M L XL XXL Represent x The Viper Room Dice T-Shirt Vintage grey 2 Colors $150",
@@ -276,8 +332,8 @@
       "score": 1.0
     },
     {
-      "name": "Pre-Order Represent x Mels Diner x 47 Cap Brown Coming Soon",
-      "url": "https://representclo.com/products/represent-x-mels-diner-x-47-cap-brown",
+      "name": "XXS XS S M L XL XXL Pegasus Zip Through Hoodie Indigo $300",
+      "url": "https://representclo.com/products/pegasus-zip-through-hoodie-indigo",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -365,62 +421,6 @@
       "price": null,
       "currency": null,
       "score": 1.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club Sweatpant Faded black 6 Colors $175",
-      "url": "https://representclo.com/products/fw25-represent-owners-club-sweatpant-faded-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club Rugby Polo Faded black 2 Colors $145",
-      "url": "https://representclo.com/products/fw25-represent-owners-club-rugby-polo-faded-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Flat white 11 Colors $115",
-      "url": "https://representclo.com/products/fw25-represent-owners-club-t-shirt-flat-white",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Faded black 11 Colors $115",
-      "url": "https://representclo.com/products/fw25-represent-owners-club-t-shirt-faded-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Bundle XXS XS S M L XL XXL 2 x Initial Boxy T-Shirt $170 $145",
-      "url": "https://representclo.com/products/2-x-initial-boxy-t-shirt-flat-white-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "Initial Socks Black $20",
-      "url": "https://representclo.com/products/initial-socks-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "Restocked XXS XS S M L XL XXL Initial Funnel Neck Quarter Zip Sweatshirt Coffee $135",
-      "url": "https://representclo.com/products/initial-funnel-neck-quarter-zip-sweatshirt-coffee",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "Restocked XXS XS S M L XL XXL Initial Sweatpants Coffee 2 Colors $120",
-      "url": "https://representclo.com/products/initial-sweatpants-coffee",
-      "price": null,
-      "currency": null,
-      "score": 4.0
     }
   ],
   "Supreme": [
