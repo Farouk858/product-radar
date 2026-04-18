@@ -311,13 +311,6 @@
       "score": 1.0
     },
     {
-      "name": "XXS XS S M L XL XXL Represent x Mels Diner T-Shirt Jet black 2 Colors $150",
-      "url": "https://representclo.com/products/represent-x-mels-diner-t-shirt-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "XXS XS S M L XL XXL Represent x The Viper Room Glow T-Shirt Vintage black $150",
       "url": "https://representclo.com/products/represent-x-the-viper-room-glow-t-shirt-vintage-black",
       "price": null,
@@ -327,6 +320,13 @@
     {
       "name": "XXS XS S M L XL XXL Pegasus Zip Through Hoodie Indigo $300",
       "url": "https://representclo.com/products/pegasus-zip-through-hoodie-indigo",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent x Mels Diner T-Shirt Jet black 2 Colors $150",
+      "url": "https://representclo.com/products/represent-x-mels-diner-t-shirt-jet-black",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -574,167 +574,6 @@
   ],
   "Palace": [
     {
-      "name": "PALACE NIKE TRACK JACKET SKY BLUESold Out",
-      "url": "https://shop.palaceskateboards.com/products/a437vgkmto5a",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE TRACK BOTTOM SKY BLUESold Out",
-      "url": "https://shop.palaceskateboards.com/products/a8nw7oxdbd2f",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE TRACK JACKET BLACKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/b7er6xsdmw0b",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE TRACK BOTTOM BLACKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/5p10sl1bqyr0",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE TRACK JACKET WHITESold Out",
-      "url": "https://shop.palaceskateboards.com/products/vh1mr1g7gort",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE TRACK BOTTOM WHITESold Out",
-      "url": "https://shop.palaceskateboards.com/products/zus0dxtp3ado",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE FONT SWOOSH HOOD GREY MARLSold Out",
-      "url": "https://shop.palaceskateboards.com/products/a5f64arrud8n",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE SWEAT SHORT GREY MARLSold Out",
-      "url": "https://shop.palaceskateboards.com/products/muunob9pjdwo",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE FONT SWOOSH HOOD CHARCOALSold Out",
-      "url": "https://shop.palaceskateboards.com/products/ug7x1960gnz9",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE SWEAT SHORT CHARCOALSold Out",
-      "url": "https://shop.palaceskateboards.com/products/oa1cmu6fd7fk",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE FONT SWOOSH HOOD BLACKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/06wjmoalb3lc",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE SWEAT SHORT BLACKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/fhmqeb1592di",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE FONT SWOOSH HOOD SKY BLUESold Out",
-      "url": "https://shop.palaceskateboards.com/products/qqwjdd6h5o2f",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE SWEAT SHORT SKY BLUESold Out",
-      "url": "https://shop.palaceskateboards.com/products/o21jsuhg4334",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE JERSEY BLACKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/pcu9q8j07rct",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE JERSEY WHITESold Out",
-      "url": "https://shop.palaceskateboards.com/products/qr9oftfob0jk",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE JERSEY SKY BLUESold Out",
-      "url": "https://shop.palaceskateboards.com/products/kd4l33ta5ov6",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE FONT SWOOSH T-SHIRT GREY MARLSold Out",
-      "url": "https://shop.palaceskateboards.com/products/pcxtspsv5mo9",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE FONT SWOOSH T-SHIRT WHITESold Out",
-      "url": "https://shop.palaceskateboards.com/products/krii3dpx6pjf",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE FONT SWOOSH T-SHIRT CHARCOALSold Out",
-      "url": "https://shop.palaceskateboards.com/products/c48fdoykcrho",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE FONT SWOOSH T-SHIRT SKY BLUESold Out",
-      "url": "https://shop.palaceskateboards.com/products/gsoo3nk0wnq1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE FONT SWOOSH T-SHIRT BLACKSold Out",
-      "url": "https://shop.palaceskateboards.com/products/csy8zldi4njl",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "PALACE NIKE AIR MAX 95 BLACK / SILVER / BLUE$200",
-      "url": "https://shop.palaceskateboards.com/products/swamwbtyjcch",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "SMOKED LEATHER JACKET BLACKSold Out",
       "url": "https://shop.palaceskateboards.com/products/smdff6b36vpb",
       "price": null,
@@ -742,14 +581,14 @@
       "score": 1.0
     },
     {
-      "name": "PALACE DORAEMON AVIREX JACKET BLACKSold Out",
+      "name": "DORAEMON AVIREX JACKET BLACKSold Out",
       "url": "https://shop.palaceskateboards.com/products/rgvohgk1m13q",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "PALACE DORAEMON AVIREX JACKET YELLOWSold Out",
+      "name": "DORAEMON AVIREX JACKET YELLOWSold Out",
       "url": "https://shop.palaceskateboards.com/products/ilk00nkpeab6",
       "price": null,
       "currency": null,
@@ -763,7 +602,7 @@
       "score": 1.0
     },
     {
-      "name": "MARK BODĒ VARSITY JACKET BLACK$688",
+      "name": "MARK BODÉ VARSITY JACKET BLACK$688",
       "url": "https://shop.palaceskateboards.com/products/a8bpxy961d84",
       "price": null,
       "currency": null,
@@ -779,6 +618,167 @@
     {
       "name": "GORE-TEX WINDSTOPPER DOWN PARKA NAVY$708",
       "url": "https://shop.palaceskateboards.com/products/p8tzn09qexk1",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GORE-TEX WINDSTOPPER DOWN PARKA FLECKTARN CAMO$708",
+      "url": "https://shop.palaceskateboards.com/products/m4ghiz72bzcn",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GORE-TEX WINDSTOPPER DOWN PARKA BLACK$708",
+      "url": "https://shop.palaceskateboards.com/products/4us317py8wgv",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GORE-TEX 2L P-TEK JACKET RACEY GREENSold Out",
+      "url": "https://shop.palaceskateboards.com/products/sn9qekyhz6x8",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GORE-TEX 2L P-TEK JACKET BLACKSold Out",
+      "url": "https://shop.palaceskateboards.com/products/6cbuqah93q6q",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "REALTREE REVERSIBLE JACKET NAVY$388",
+      "url": "https://shop.palaceskateboards.com/products/kqxje3lx5wx0",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "REALTREE REVERSIBLE JACKET THE DEEP GREEN$388",
+      "url": "https://shop.palaceskateboards.com/products/ftnehhu2a0nu",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "REALTREE REVERSIBLE JACKET BLACK$388",
+      "url": "https://shop.palaceskateboards.com/products/nv09j1qe9qu3",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE SAN FRANCISCO GIANTS DENIM VARSITY JACKET STONE WASHSold Out",
+      "url": "https://shop.palaceskateboards.com/products/ec7q9cf57516",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PALACE SCHOTT CWU 90'S FIT BOMBER JACKET BLACKSold Out",
+      "url": "https://shop.palaceskateboards.com/products/ia42jl2hcipm",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "NEED FOR P'S JACKET WHITESold Out",
+      "url": "https://shop.palaceskateboards.com/products/atv0fuf673up",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "NEED FOR P'S JACKET GREEN$428",
+      "url": "https://shop.palaceskateboards.com/products/7wztd7o1zy6a",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "NEED FOR P'S JACKET BLACK$428",
+      "url": "https://shop.palaceskateboards.com/products/4nuzt5pds58y",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ESTABLISHED PUFFA RED$388",
+      "url": "https://shop.palaceskateboards.com/products/t1oq7vj3104l",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ESTABLISHED PUFFA BLACK$388",
+      "url": "https://shop.palaceskateboards.com/products/dpuux5k9uj0f",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "ESTABLISHED PUFFA DEEP SEA BLUE$388",
+      "url": "https://shop.palaceskateboards.com/products/8e0vy8ngpgnl",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PERFORMANCE PUFFA BLACKSold Out",
+      "url": "https://shop.palaceskateboards.com/products/mcbxy35syv19",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PERFORMANCE PUFFA GREYSold Out",
+      "url": "https://shop.palaceskateboards.com/products/sm103w4zdf11",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PERFORMANCE PUFFA NAVYSold Out",
+      "url": "https://shop.palaceskateboards.com/products/uxw5gm68np86",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "EVEN FASTER JACKET BLUE$368",
+      "url": "https://shop.palaceskateboards.com/products/90yvkfmpsac0",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "EVEN FASTER JACKET PINK$368",
+      "url": "https://shop.palaceskateboards.com/products/vu6nl247icdj",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "EVEN FASTER JACKET BLACK$368",
+      "url": "https://shop.palaceskateboards.com/products/j2nptr288mxb",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PERTEX TRI NET JACKET GREEN$298",
+      "url": "https://shop.palaceskateboards.com/products/98r7zki0eik6",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "PERTEX TRI NET JACKET BLACK$298",
+      "url": "https://shop.palaceskateboards.com/products/0ecqwcg1ikkx",
       "price": null,
       "currency": null,
       "score": 1.0
