@@ -1,216 +1,5 @@
 {
-  "Corteiz": [
-    {
-      "name": "ISLAND PUFF PRINT ZIP HOODIE [BLACK]",
-      "url": "https://crtz.xyz/products/island-puff-print-zip-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND PUFF PRINT ZIP HOODIE [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/island-puff-print-zip-hoodie-heather-grey",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND PUFF PRINT OPEN HEM SWEATPANT [BLACK]",
-      "url": "https://crtz.xyz/products/island-puff-print-open-hem-pant-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND PUFF PRINT OPEN HEM SWEATPANT [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/island-puff-print-open-hem-pant-1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND PUFF PRINT SWEATSHORT [BLACK]",
-      "url": "https://crtz.xyz/products/island-sweatshort-black-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND PUFF PRINT SWEATSHORT [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/island-puff-print-sweatshort-heather-grey",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND ZIP HOODIE [BLACK]",
-      "url": "https://crtz.xyz/products/mini-island-zip-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND ZIP HOODIE [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/mini-island-zip-hoodie",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND SWEATPANT [BLACK]",
-      "url": "https://crtz.xyz/products/mini-island-sweatpant",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND SWEATPANT [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/mini-island-sweatpant-1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND CREWNECK [BLACK]",
-      "url": "https://crtz.xyz/products/mini-island-crewneck",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "MINI ISLAND CREWNECK [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/mini-island-crewneck-1",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP THERMAL ZIP HOODIE [BLACK]",
-      "url": "https://crtz.xyz/products/hmp-thermal-zip-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP THERMAL ZIP HOODIE [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/hmp-thermal-zip-hoodie-heather-grey",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP OPEN HEM SWEATPANT [BLACK]",
-      "url": "https://crtz.xyz/products/hmp-open-hem-pant-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP OPEN HEM SWEATPANT [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/hmp-open-hem-pant-heather-grey",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP V2 SWEATSHIRT [BLACK]",
-      "url": "https://crtz.xyz/products/hmp-v2-sweatshirt-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP V2 SWEATSHIRT [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/hmp-v2-sweatshirt-grey",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP V2 SWEATPANT [BLACK]",
-      "url": "https://crtz.xyz/products/hmp-v2-sweatpant-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "HMP V2 SWEATPANT [HEATHER GREY]",
-      "url": "https://crtz.xyz/products/hmp-v2-sweatpant-grey",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ALCATRAZ HOODIE [TRIPLE BLACK]",
-      "url": "https://crtz.xyz/products/alcatraz-hoodie-2026",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ALCATRAZ SWEATPANT [TRIPLE BLACK]",
-      "url": "https://crtz.xyz/products/alcatraz-sweatpant-2024",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ALCATRAZ HOODIE [BLACK & WHITE]",
-      "url": "https://crtz.xyz/products/alcatraz-hoodie-v2-black-white",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ALCATRAZ CARGO PANT [BLACK]",
-      "url": "https://crtz.xyz/products/guerillaz-cargos-black-white",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "BOLO DOWN JACKET [TRIPLE BLACK]",
-      "url": "https://crtz.xyz/products/bolo-v2-puffer-jacket-2025-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ELITEWORK™ WATERPROOF SHELL PANT [BLACK]",
-      "url": "https://crtz.xyz/products/elitework-waterproof-shell-pant-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GUERILLAZ CARGO PANT [BLACK]",
-      "url": "https://crtz.xyz/products/guerillaz-cargo-pant-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "GUERILLAZ CARGO SHORT [BLACK]",
-      "url": "https://crtz.xyz/products/guerillaz-cargo-short-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND WAFFLE THERMAL [BLACK]",
-      "url": "https://crtz.xyz/products/island-thermal-ls-black",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "ISLAND WAFFLE THERMAL [CREAM]",
-      "url": "https://crtz.xyz/products/island-thermal-ls-cream",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    }
-  ],
+  "Corteiz": [],
   "Represent": [
     {
       "name": "Gift Card",
@@ -225,6 +14,62 @@
       "price": null,
       "currency": null,
       "score": 4.0
+    },
+    {
+      "name": "XS S M L XL XXL NFL Shield x Represent Hoodie Stained black 4 Colors $270",
+      "url": "https://representclo.com/products/nfl-shield-x-represent-hoodie-stained-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XS S M L XL XXL Dallas Cowboys x Represent Hoodie Cream marl 4 Colors $270",
+      "url": "https://representclo.com/products/dallas-cowboys-x-represent-hoodie-cream-marl",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XS S M L XL XXL Philadelphia Eagles x Represent Hoodie Vintage grey 4 Colors $270",
+      "url": "https://representclo.com/products/philadelphia-eagles-x-represent-hoodie-vintage-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XS S M L XL XXL NFL Shield x Represent T-Shirt Stained black 4 Colors $165",
+      "url": "https://representclo.com/products/nfl-shield-x-represent-t-shirt-stained-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XS S M L XL XXL Los Angeles Rams x Represent T-Shirt Stained black 4 Colors $165",
+      "url": "https://representclo.com/products/los-angeles-rams-x-represent-t-shirt-stained-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XS S M L XL XXL Dallas Cowboys x Represent T-Shirt Washed ecru 4 Colors $165",
+      "url": "https://representclo.com/products/dallas-cowboys-x-represent-t-shirt-washed-ecru",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XS S M L XL XXL Philadelphia Eagles x Represent T-Shirt Vintage grey 4 Colors $165",
+      "url": "https://representclo.com/products/philadelphia-eagles-x-represent-t-shirt-vintage-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Los Angeles Rams X Represent X 47 Cap Washed aged black 4 Colors $115",
+      "url": "https://representclo.com/products/los-angeles-rams-x-represent-x-47-cap-washed-aged-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
     },
     {
       "name": "XS S M L XL XXL MH Shrunken Zip Hoodie Vintage navy $285",
@@ -283,15 +128,15 @@
       "score": 4.0
     },
     {
-      "name": "28 29 30 31 32 33 34 36 38 Heaton Denim Jet black 6 Colors $245",
-      "url": "https://representclo.com/products/heaton-denim-jet-black",
+      "name": "XXS XS S M L XL XXL Represent x The Viper Room Dice T-Shirt Vintage grey 2 Colors $150",
+      "url": "https://representclo.com/products/represent-x-the-viper-room-dice-t-shirt-vintage-grey",
       "price": null,
       "currency": null,
       "score": 4.0
     },
     {
-      "name": "XXS XS S M L XL XXL Represent x The Viper Room Dice T-Shirt Vintage grey 2 Colors $150",
-      "url": "https://representclo.com/products/represent-x-the-viper-room-dice-t-shirt-vintage-grey",
+      "name": "28 29 30 31 32 33 34 36 38 Heaton Denim Jet black 6 Colors $245",
+      "url": "https://representclo.com/products/heaton-denim-jet-black",
       "price": null,
       "currency": null,
       "score": 4.0
@@ -339,88 +184,32 @@
       "score": 4.0
     },
     {
-      "name": "XS S M L XL XXL 247 London Hoodie Aged grey $180",
+      "name": "XS S M L XL XXL 247 London Hoodie Aged grey 2 Colors $180",
       "url": "https://representclo.com/products/247-london-26-hoodie-aged-grey",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "XS S M L XL XXL 247 London T-Shirt Aop grey $115",
+      "name": "XS S M L XL XXL 247 London T-Shirt Aop grey 2 Colors $115",
       "url": "https://representclo.com/products/247-london-26-t-shirt-vintage-grey",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "XS S M L XL XXL 247 London Tank Aop grey $110",
+      "name": "XS S M L XL XXL 247 London Tank Aop grey 2 Colors $110",
       "url": "https://representclo.com/products/247-london-26-tank-vintage-grey",
       "price": null,
       "currency": null,
       "score": 1.0
     },
     {
-      "name": "XS S M L XL XXL 247 London Singlet Vintage grey $100",
+      "name": "XS S M L XL XXL 247 London Singlet Vintage grey 2 Colors $100",
       "url": "https://representclo.com/products/247-london-26-singlet-vintage-grey",
       "price": null,
       "currency": null,
       "score": 1.0
-    },
-    {
-      "name": "XS S M L XL XXL 247 London Short Vintage grey $120",
-      "url": "https://representclo.com/products/247-london-26-short-vintage-grey",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XS S M L XL XXL 247 London Half Tight Vintage grey $115",
-      "url": "https://representclo.com/products/247-london-26-half-tight-vintage-grey",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "247 London Cap Vintage grey $60",
-      "url": "https://representclo.com/products/247-london-26-cap-vintage-grey",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Bundle LDN Race Kit Singlet & Half Tight $215 $170",
-      "url": "https://representclo.com/products/ldn-race-kit-singlet-half-tight",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club Hoodie Black 8 Colors $200",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club Hoodie Ash grey 8 Colors $200",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-ash-grey",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Black 11 Colors $115",
-      "url": "https://representclo.com/products/represent-owners-club-t-shirt-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Flat white 11 Colors $115",
-      "url": "https://representclo.com/products/represent-owners-club-t-shirt-flat-white",
-      "price": null,
-      "currency": null,
-      "score": 4.0
     }
   ],
   "Supreme": [
@@ -742,7 +531,7 @@
       "score": 1.0
     },
     {
-      "name": "PERFORMANCE PUFFA NAVYSold Out",
+      "name": "PERFORMANCE PUFFA NAVY$388",
       "url": "https://shop.palaceskateboards.com/products/uxw5gm68np86",
       "price": null,
       "currency": null,
