@@ -9,13 +9,6 @@
       "score": 1.0
     },
     {
-      "name": "Gift cards",
-      "url": "https://representclo.com/products/gift-card",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
       "name": "XS S M L XL XXL Dallas Cowboys x Represent Hoodie Cream marl 4 Colors $270",
       "url": "https://representclo.com/products/dallas-cowboys-x-represent-hoodie-cream-marl",
       "price": null,
@@ -170,15 +163,15 @@
       "score": 4.0
     },
     {
-      "name": "XXS XS S M L XL XXL Mesh Pegasus Long Sleeve T-Shirt Flat white 2 Colors $180",
-      "url": "https://representclo.com/products/mesh-pegasus-long-sleeve-t-shirt-flat-white",
+      "name": "XXS XS S M L XL XXL Represent x The Viper Room Glow T-Shirt Vintage black $150",
+      "url": "https://representclo.com/products/represent-x-the-viper-room-glow-t-shirt-vintage-black",
       "price": null,
       "currency": null,
       "score": 4.0
     },
     {
-      "name": "XXS XS S M L XL XXL Represent x The Viper Room Glow T-Shirt Vintage black $150",
-      "url": "https://representclo.com/products/represent-x-the-viper-room-glow-t-shirt-vintage-black",
+      "name": "XXS XS S M L XL XXL Mesh Pegasus Long Sleeve T-Shirt Flat white 2 Colors $180",
+      "url": "https://representclo.com/products/mesh-pegasus-long-sleeve-t-shirt-flat-white",
       "price": null,
       "currency": null,
       "score": 4.0
@@ -207,6 +200,13 @@
     {
       "name": "XS S M L XL XXL 247 London Singlet Vintage grey 2 Colors $100",
       "url": "https://representclo.com/products/247-london-26-singlet-vintage-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XS S M L XL XXL 247 London Short Vintage grey 2 Colors $120",
+      "url": "https://representclo.com/products/247-london-26-short-vintage-grey",
       "price": null,
       "currency": null,
       "score": 1.0
