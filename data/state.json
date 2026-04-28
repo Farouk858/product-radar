@@ -9,6 +9,13 @@
       "score": 1.0
     },
     {
+      "name": "Gift cards",
+      "url": "https://representclo.com/products/gift-card",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
       "name": "XS S M L XL XXL Dallas Cowboys x Represent Hoodie Cream marl 4 Colors $270",
       "url": "https://representclo.com/products/dallas-cowboys-x-represent-hoodie-cream-marl",
       "price": null,
@@ -63,62 +70,6 @@
       "price": null,
       "currency": null,
       "score": 1.0
-    },
-    {
-      "name": "XS S M L XL XXL MH Shrunken Zip Hoodie Vintage navy $285",
-      "url": "https://representclo.com/products/mh-shrunken-zip-hoodie-vintage-navy",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XS S M L XL XXL GH Shrunken Zip Hoodie Jet black $270",
-      "url": "https://representclo.com/products/gh-shrunken-zip-hoodie-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XS S M L XL XXL GH Knitted Long Sleeve Top Jet black 2 Colors $255",
-      "url": "https://representclo.com/products/gh-knitted-long-sleeve-top-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XS S M L XL XXL GH Knitted Long Sleeve Top Espresso 2 Colors $255",
-      "url": "https://representclo.com/products/gh-knitted-long-sleeve-top-espresso",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XS S M L XL XXL GH Shrunken Sweatshirt Jet black $225",
-      "url": "https://representclo.com/products/gh-shrunken-sweatshirt-jet-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "Restocked XS S M L XL XXL MH Stack Long Sleeve T-Shirt Faded black $190",
-      "url": "https://representclo.com/products/mh-stack-long-sleeve-t-shirt-faded-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XS S M L XL XXL MH Long Sleeve T-Shirt Faded black $160",
-      "url": "https://representclo.com/products/mh-long-sleeve-t-shirt-faded-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XS S M L XL XXL MH T-Shirt V2 Ash white $145",
-      "url": "https://representclo.com/products/mh-t-shirt-v2-ash-white",
-      "price": null,
-      "currency": null,
-      "score": 4.0
     },
     {
       "name": "XXS XS S M L XL XXL Represent x The Viper Room Dice T-Shirt Vintage grey 2 Colors $150",
@@ -210,6 +161,55 @@
       "price": null,
       "currency": null,
       "score": 1.0
+    },
+    {
+      "name": "XS S M L XL XXL 247 London Short Vintage grey 2 Colors $120",
+      "url": "https://representclo.com/products/247-london-26-short-vintage-grey",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Bundle LDN Race Kit Tee & Short $235 $190",
+      "url": "https://representclo.com/products/ldn-race-kit-tee-short",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "Bundle LDN Race Kit Singlet & Half Tight $215 $170",
+      "url": "https://representclo.com/products/ldn-race-kit-singlet-half-tight",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club Hoodie Black 8 Colors $200",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club Hoodie Ash grey 8 Colors $200",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-ash-grey",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Black 11 Colors $115",
+      "url": "https://representclo.com/products/represent-owners-club-t-shirt-black",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Flat white 11 Colors $115",
+      "url": "https://representclo.com/products/represent-owners-club-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 4.0
     }
   ],
   "Supreme": [
