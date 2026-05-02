@@ -1,5 +1,216 @@
 {
-  "Corteiz": [],
+  "Corteiz": [
+    {
+      "name": "OLD ENGLISH DENIM WORK JACKET [BLACK WASH]",
+      "url": "https://crtz.xyz/products/old-english-denim-work-jacket-blackwash",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "OLD ENGLISH BAGGY JEANS [BLACK WASH]",
+      "url": "https://crtz.xyz/products/old-english-denim-baggy-jean-blackwash",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GUERILLAZ RIPSTOP JACKET [REFLECTIVE CAMO]",
+      "url": "https://crtz.xyz/products/guerillaz-ripstop-zip-jacket-reflective-digi-camo",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GUERILLAZ CARGO PANT [REFLECTIVE CAMO]",
+      "url": "https://crtz.xyz/products/guerillaz-cargo-pant-reflective-digi-camo",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "STRIKE DENIM JACKET [DARK WASH]",
+      "url": "https://crtz.xyz/products/strike-denim-jacket",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "STRIKE BAGGY JEANS [DARK WASH]",
+      "url": "https://crtz.xyz/products/strike-denim-baggy-jeans",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "STRATA SHUKU JACKET [OFF WHITE]",
+      "url": "https://crtz.xyz/products/strata-shuku-jacket-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "STRATA SHUKU PANT [OFF WHITE]",
+      "url": "https://crtz.xyz/products/strata-shuku-pant-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "STRATA SHUKU JACKET [BLACK]",
+      "url": "https://crtz.xyz/products/strata-shuku-jacket-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "STRATA SHUKU PANT [BLACK]",
+      "url": "https://crtz.xyz/products/strata-shuku-pant-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GHINI ZIP HOODIE [ROYAL BLUE]",
+      "url": "https://crtz.xyz/products/ghini-zip-hoodie-royal-blue",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GHINI SWEATPANT [ROYAL BLUE]",
+      "url": "https://crtz.xyz/products/ghini-sweatpant-royal-blue",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GHINI ZIP HOODIE [BLACK]",
+      "url": "https://crtz.xyz/products/ghini-zip-hoodie-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GHINI SWEATPANT [BLACK]",
+      "url": "https://crtz.xyz/products/ghini-sweatpant-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP DOUBLE UP CREWNECK [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/hmp-double-up-crewneck-heather",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "HMP DOUBLE UP SWEATSHORT [HEATHER GREY]",
+      "url": "https://crtz.xyz/products/hmp-double-up-sweatshort-heather",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "RSLM KNIT CREWNECK [CREAM]",
+      "url": "https://crtz.xyz/products/rslm-knit-crewneck-cream",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "RSLM KNIT CREWNECK [NAVY]",
+      "url": "https://crtz.xyz/products/rslm-knit-crewneck-navy",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "VVS PANEL KNIT SWEATER [CREAM]",
+      "url": "https://crtz.xyz/products/vvs-panel-sweater",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "SCRIPT POCKET KNIT SWEATER [OATMEAL]",
+      "url": "https://crtz.xyz/products/script-raglan-knit-sweater-khaki",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "FORMATION WINDBREAKER [ORANGE]",
+      "url": "https://crtz.xyz/products/heavy-duty-windbreaker-orange",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GABRIEL MOSES FLIGHT CASE [BLACK]",
+      "url": "https://crtz.xyz/products/peli-case-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GABRIEL MOSES ELITEWORK™ JACKET [COLUMBIA]",
+      "url": "https://crtz.xyz/products/columbia-elitework-shell-jacket-columbia",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GABRIEL MOSES KNIT ZIP HOODIE [REMY]",
+      "url": "https://crtz.xyz/products/remy-knit-hoodie",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GABRIEL MOSES TRACK JACKET [BLACK]",
+      "url": "https://crtz.xyz/products/regina-track-jacket",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GABRIEL MOSES TRACK PANT [BLACK]",
+      "url": "https://crtz.xyz/products/regina-track-pant",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GABRIEL MOSES ZIP HOODIE [SOUF CAMO]",
+      "url": "https://crtz.xyz/products/itsrealsoufcamo",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GABRIEL MOSES ZIP HOODIE [BLACK]",
+      "url": "https://crtz.xyz/products/itsthatrealblack",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GABRIEL MOSES OG ALCATRAZ TEE [CAMO]",
+      "url": "https://crtz.xyz/products/regina-rules-the-world-tee-white",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "GABRIEL MOSES OG ALCATRAZ TEE [BLACK]",
+      "url": "https://crtz.xyz/products/regina-rules-the-world-tee-black",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    }
+  ],
   "Represent": [
     {
       "name": "Gift Card",
@@ -191,7 +402,7 @@
       "score": 1.0
     },
     {
-      "name": "XS S M L XL XXL 247 London Tank Aop grey $110",
+      "name": "XS S M L XL XXL 247 London Tank Aop grey 2 Colors $110",
       "url": "https://representclo.com/products/247-london-26-tank-vintage-grey",
       "price": null,
       "currency": null,
