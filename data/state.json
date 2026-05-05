@@ -311,13 +311,6 @@
       "score": 4.0
     },
     {
-      "name": "XXS XS S M L XL XXL Represent Owners Club Sweatpant Faded black 6 Colors $175",
-      "url": "https://representclo.com/products/fw25-represent-owners-club-sweatpant-faded-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
       "name": "XXS XS S M L XL XXL Represent Owners Club Rugby Polo Faded black 2 Colors $145",
       "url": "https://representclo.com/products/fw25-represent-owners-club-rugby-polo-faded-black",
       "price": null,
@@ -325,8 +318,8 @@
       "score": 4.0
     },
     {
-      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Faded black 11 Colors $115",
-      "url": "https://representclo.com/products/fw25-represent-owners-club-t-shirt-faded-black",
+      "name": "XXS XS S M L XL XXL Represent Owners Club Sweatpant Faded black 6 Colors $175",
+      "url": "https://representclo.com/products/fw25-represent-owners-club-sweatpant-faded-black",
       "price": null,
       "currency": null,
       "score": 4.0
@@ -334,6 +327,13 @@
     {
       "name": "Restocked Represent X 47 Owners Club Cap Faded black 2 Colors $60",
       "url": "https://representclo.com/products/represent-x-47-owners-club-cap-faded-black",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Faded black 11 Colors $115",
+      "url": "https://representclo.com/products/fw25-represent-owners-club-t-shirt-faded-black",
       "price": null,
       "currency": null,
       "score": 4.0
@@ -360,15 +360,15 @@
       "score": 4.0
     },
     {
-      "name": "Restocked XXS XS S M L XL XXL Chrome Flight T-Shirt Stained black $150",
-      "url": "https://representclo.com/products/chrome-flight-t-shirt-stained-black",
+      "name": "XXS XS S M L XL XXL Mesh Pegasus Long Sleeve T-Shirt Jet black 2 Colors $180",
+      "url": "https://representclo.com/products/mesh-pegasus-long-sleeve-t-shirt-jet-black",
       "price": null,
       "currency": null,
       "score": 4.0
     },
     {
-      "name": "XXS XS S M L XL XXL Mesh Pegasus Long Sleeve T-Shirt Jet black 2 Colors $180",
-      "url": "https://representclo.com/products/mesh-pegasus-long-sleeve-t-shirt-jet-black",
+      "name": "Restocked XXS XS S M L XL XXL Chrome Flight T-Shirt Stained black $150",
+      "url": "https://representclo.com/products/chrome-flight-t-shirt-stained-black",
       "price": null,
       "currency": null,
       "score": 4.0
@@ -565,43 +565,7 @@
       "score": 1.0
     }
   ],
-  "Palace": [
-    {
-      "name": "Shops",
-      "url": "https://shop.palaceskateboards.com/shops",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Web Shop",
-      "url": "https://shop.palaceskateboards.com/collections/all",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "SUMMER 2026 LOOKBOOK",
-      "url": "https://shop.palaceskateboards.com/lookbook/summer-2026",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Advice",
-      "url": "https://shop.palaceskateboards.com/advice",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "Manor Place",
-      "url": "https://manorplace.com",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    }
-  ],
+  "Palace": [],
   "Aimé Leon Dore": [
     {
       "name": "Lookbook",
