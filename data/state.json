@@ -1,20 +1,6 @@
 {
   "Corteiz": [
     {
-      "name": "OLD ENGLISH DENIM WORK JACKET [BLACK WASH]",
-      "url": "https://crtz.xyz/products/old-english-denim-work-jacket-blackwash",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
-      "name": "OLD ENGLISH BAGGY JEANS [BLACK WASH]",
-      "url": "https://crtz.xyz/products/old-english-denim-baggy-jean-blackwash",
-      "price": null,
-      "currency": null,
-      "score": 1.0
-    },
-    {
       "name": "GUERILLAZ RIPSTOP JACKET [REFLECTIVE CAMO]",
       "url": "https://crtz.xyz/products/guerillaz-ripstop-zip-jacket-reflective-digi-camo",
       "price": null,
@@ -38,6 +24,20 @@
     {
       "name": "STRIKE BAGGY JEANS [DARK WASH]",
       "url": "https://crtz.xyz/products/strike-denim-baggy-jeans",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "OLD ENGLISH DENIM WORK JACKET [BLACK WASH]",
+      "url": "https://crtz.xyz/products/old-english-denim-work-jacket-blackwash",
+      "price": null,
+      "currency": null,
+      "score": 1.0
+    },
+    {
+      "name": "OLD ENGLISH BAGGY JEANS [BLACK WASH]",
+      "url": "https://crtz.xyz/products/old-english-denim-baggy-jean-blackwash",
       "price": null,
       "currency": null,
       "score": 1.0
@@ -227,6 +227,62 @@
       "score": 4.0
     },
     {
+      "name": "XXS XS S M L XL XXL Represent Owners Club Hoodie Black 8 Colors $200",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club Hoodie Ash grey 8 Colors $200",
+      "url": "https://representclo.com/products/represent-owners-club-hoodie-ash-grey",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Black 11 Colors $115",
+      "url": "https://representclo.com/products/represent-owners-club-t-shirt-black",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Flat white 11 Colors $115",
+      "url": "https://representclo.com/products/represent-owners-club-t-shirt-flat-white",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club Sweatpant Faded black 6 Colors $175",
+      "url": "https://representclo.com/products/fw25-represent-owners-club-sweatpant-faded-black",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club Rugby Polo Faded black 2 Colors $145",
+      "url": "https://representclo.com/products/fw25-represent-owners-club-rugby-polo-faded-black",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
+      "name": "Restocked Represent X 47 Owners Club Cap Faded black 2 Colors $60",
+      "url": "https://representclo.com/products/represent-x-47-owners-club-cap-faded-black",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
+      "name": "XXS XS S M L XL XXL Represent Owners Club Shorts Faded black 7 Colors $115",
+      "url": "https://representclo.com/products/fw25-represent-owners-club-shorts-faded-black",
+      "price": null,
+      "currency": null,
+      "score": 4.0
+    },
+    {
       "name": "XS S M L XL XXL Dallas Cowboys x Represent Hoodie Cream marl 4 Colors $270",
       "url": "https://representclo.com/products/dallas-cowboys-x-represent-hoodie-cream-marl",
       "price": null,
@@ -281,62 +337,6 @@
       "price": null,
       "currency": null,
       "score": 1.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club Hoodie Black 8 Colors $200",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club Hoodie Ash grey 8 Colors $200",
-      "url": "https://representclo.com/products/represent-owners-club-hoodie-ash-grey",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Black 11 Colors $115",
-      "url": "https://representclo.com/products/represent-owners-club-t-shirt-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Flat white 11 Colors $115",
-      "url": "https://representclo.com/products/represent-owners-club-t-shirt-flat-white",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club Rugby Polo Faded black 2 Colors $145",
-      "url": "https://representclo.com/products/fw25-represent-owners-club-rugby-polo-faded-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club Sweatpant Faded black 6 Colors $175",
-      "url": "https://representclo.com/products/fw25-represent-owners-club-sweatpant-faded-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "Restocked Represent X 47 Owners Club Cap Faded black 2 Colors $60",
-      "url": "https://representclo.com/products/represent-x-47-owners-club-cap-faded-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
-    },
-    {
-      "name": "XXS XS S M L XL XXL Represent Owners Club T-Shirt Faded black 11 Colors $115",
-      "url": "https://representclo.com/products/fw25-represent-owners-club-t-shirt-faded-black",
-      "price": null,
-      "currency": null,
-      "score": 4.0
     },
     {
       "name": "Restocked Represent x Viper Room x 47 Cap Washed black $100",
